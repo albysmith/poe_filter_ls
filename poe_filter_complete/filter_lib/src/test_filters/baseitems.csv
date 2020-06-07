@@ -1,0 +1,2380 @@
+﻿name,class,domain,droplevel
+Eternal Life Flask,0,2,65
+Divine Life Flask,0,2,60
+Sanctified Life Flask,0,2,50
+Hallowed Life Flask,0,2,42
+Sacred Life Flask,0,2,36
+Colossal Life Flask,0,2,30
+Giant Life Flask,0,2,24
+Grand Life Flask,0,2,18
+Greater Life Flask,0,2,12
+Large Life Flask,0,2,6
+Medium Life Flask,0,2,3
+Small Life Flask,0,2,1
+Eternal Mana Flask,1,2,65
+Divine Mana Flask,1,2,60
+Sanctified Mana Flask,1,2,50
+Hallowed Mana Flask,1,2,42
+Sacred Mana Flask,1,2,36
+Colossal Mana Flask,1,2,30
+Giant Mana Flask,1,2,24
+Grand Mana Flask,1,2,18
+Greater Mana Flask,1,2,12
+Large Mana Flask,1,2,6
+Medium Mana Flask,1,2,3
+Small Mana Flask,1,2,1
+Hallowed Hybrid Flask,2,2,60
+Sacred Hybrid Flask,2,2,50
+Colossal Hybrid Flask,2,2,40
+Large Hybrid Flask,2,2,30
+Medium Hybrid Flask,2,2,20
+Small Hybrid Flask,2,2,10
+Mystery Leaguestone,3,22,1
+Greatwolf Talisman,4,1,1
+Three Hands Talisman,4,1,1
+Monkey Paw Talisman,4,1,1
+Rotfeather Talisman,4,1,1
+Longtooth Talisman,4,1,1
+Monkey Twins Talisman,4,1,1
+Three Rat Talisman,4,1,1
+Spinefuse Talisman,4,1,1
+Horned Talisman,4,1,1
+Fangjaw Talisman,4,1,1
+Avian Twins Talisman,4,1,1
+Clutching Talisman,4,1,1
+Splitnewt Talisman,4,1,1
+Wereclaw Talisman,4,1,1
+Primal Skull Talisman,4,1,1
+Hexclaw Talisman,4,1,1
+Writhing Talisman,4,1,35
+Chrysalis Talisman,4,1,35
+Mandible Talisman,4,1,1
+Rot Head Talisman,4,1,1
+Undying Flesh Talisman,4,1,1
+Deadhand Talisman,4,1,1
+Breakrib Talisman,4,1,1
+Deep One Talisman,4,1,1
+Lone Antler Talisman,4,1,1
+Ashscale Talisman,4,1,1
+Bonespire Talisman,4,1,1
+Black Maw Talisman,4,1,1
+Marble Amulet,4,1,74
+Blue Pearl Amulet,4,1,77
+Jet Amulet,4,1,1
+Ruby Amulet,4,1,50
+Citrine Amulet,4,1,20
+Agate Amulet,4,1,20
+Turquoise Amulet,4,1,20
+Onyx Amulet,4,1,25
+Gold Amulet,4,1,15
+Lapis Amulet,4,1,7
+Jade Amulet,4,1,7
+Amber Amulet,4,1,7
+Coral Amulet,4,1,3
+Paua Amulet,4,1,3
+Breach Ring,5,1,1
+Cerulean Ring,5,1,80
+Vermillion Ring,5,1,80
+Opal Ring,5,1,78
+Steel Ring,5,1,78
+Jet Ring,5,1,15
+Unset Ring,5,1,45
+Two-Stone Ring,5,1,20
+Diamond Ring,5,1,25
+Amethyst Ring,5,1,38
+Moonstone Ring,5,1,25
+Prismatic Ring,5,1,30
+Ruby Ring,5,1,16
+Sapphire Ring,5,1,8
+Topaz Ring,5,1,12
+Gold Ring,5,1,20
+Paua Ring,5,1,5
+Coral Ring,5,1,4
+Iron Ring,5,1,2
+Golden Hoop,5,1,12
+Gemini Claw,6,1,72
+Terror Claw,6,1,70
+Imperial Claw,6,1,68
+Vaal Claw,6,1,66
+Eye Gouger,6,1,64
+Hellion's Paw,6,1,62
+Throat Stabber,6,1,60
+Great White Claw,6,1,58
+Twin Claw,6,1,57
+Eagle Claw,6,1,55
+Noble Claw,6,1,52
+Prehistoric Claw,6,1,49
+Gut Ripper,6,1,46
+Tiger's Paw,6,1,43
+Gouger,6,1,40
+Thresher Claw,6,1,37
+Double Claw,6,1,36
+Fright Claw,6,1,34
+Sparkling Claw,6,1,30
+Timeworn Claw,6,1,26
+Blinder,6,1,22
+Cat's Paw,6,1,17
+Awl,6,1,12
+Sharktooth Claw,6,1,7
+Nailed Fist,6,1,3
+Ethereal Blade,7,22,1
+Sai,7,1,70
+Ambusher,7,1,60
+Gutting Knife,7,1,56
+Trisula,7,1,51
+Poignard,7,1,41
+Flaying Knife,7,1,30
+Prong Dagger,7,1,36
+Stiletto,7,1,15
+Skinning Knife,7,1,5
+Glass Shank,7,1,1
+Convoking Wand,8,1,72
+Profane Wand,8,1,70
+Prophecy Wand,8,1,68
+Tornado Wand,8,1,65
+Opal Wand,8,1,62
+Imbued Wand,8,1,59
+Demon's Horn,8,1,56
+Heathen Wand,8,1,55
+Omen Wand,8,1,53
+Serpent Wand,8,1,49
+Crystal Wand,8,1,45
+Engraved Wand,8,1,40
+Faun's Horn,8,1,35
+Pagan Wand,8,1,34
+Sage Wand,8,1,30
+Spiraled Wand,8,1,24
+Quartz Wand,8,1,18
+Carved Wand,8,1,12
+Goat's Horn,8,1,6
+Driftwood Wand,8,1,1
+Tiger Hook,9,1,70
+Midnight Blade,9,1,68
+Eternal Sword,9,1,66
+Vaal Blade,9,1,64
+Legion Sword,9,1,62
+Gladius,9,1,60
+Corsair Sword,9,1,58
+Gemstone Sword,9,1,56
+Grappler,9,1,55
+Twilight Blade,9,1,53
+Graceful Sword,9,1,50
+Elder Sword,9,1,47
+Battle Sword,9,1,44
+Baselard,9,1,41
+Cutlass,9,1,38
+Variscite Blade,9,1,35
+Hook Sword,9,1,34
+Dusk Blade,9,1,32
+Elegant Sword,9,1,28
+Ancient Sword,9,1,24
+War Sword,9,1,20
+Broad Sword,9,1,15
+Sabre,9,1,10
+Copper Sword,9,1,5
+Rusted Sword,9,1,1
+Charan's Sword,9,1,2
+Dragoon Sword,10,1,72
+Harpy Rapier,10,1,70
+Jewelled Foil,10,1,68
+Vaal Rapier,10,1,66
+Spiraled Foil,10,1,64
+Pecoraro,10,1,62
+Tempered Foil,10,1,60
+Dragonbone Rapier,10,1,58
+Courtesan Sword,10,1,57
+Apex Rapier,10,1,55
+Fancy Foil,10,1,52
+Primeval Rapier,10,1,49
+Serrated Foil,10,1,46
+Estoc,10,1,43
+Burnished Foil,10,1,40
+Wyrmbone Rapier,10,1,37
+Smallsword,10,1,36
+Thorn Rapier,10,1,34
+Elegant Foil,10,1,30
+Antique Rapier,10,1,26
+Jagged Foil,10,1,22
+Basket Rapier,10,1,17
+Battered Foil,10,1,12
+Whalebone Rapier,10,1,7
+Rusted Spike,10,1,3
+Runic Hatchet,11,1,71
+Infernal Axe,11,1,69
+Royal Axe,11,1,67
+Vaal Hatchet,11,1,65
+Butcher Axe,11,1,63
+Reaver Axe,11,1,61
+Siege Axe,11,1,59
+Karui Axe,11,1,57
+Engraved Hatchet,11,1,56
+Wraith Axe,11,1,54
+Ceremonial Axe,11,1,51
+Chest Splitter,11,1,48
+War Axe,11,1,45
+Wrist Chopper,11,1,42
+Tomahawk,11,1,39
+Jasper Axe,11,1,36
+Etched Hatchet,11,1,35
+Spectral Axe,11,1,33
+Decorative Axe,11,1,29
+Arming Axe,11,1,25
+Broad Axe,11,1,21
+Cleaver,11,1,16
+Boarding Axe,11,1,11
+Jade Hatchet,11,1,6
+Rusted Hatchet,11,1,2
+Behemoth Mace,12,1,70
+Nightmare Mace,12,1,68
+Auric Mace,12,1,66
+Pernarch,12,1,64
+Legion Hammer,12,1,62
+Gavel,12,1,60
+Tenderizer,12,1,58
+Ancestral Club,12,1,56
+Dragon Mace,12,1,55
+Phantom Mace,12,1,53
+Ornate Mace,12,1,50
+Flanged Mace,12,1,47
+Battle Hammer,12,1,44
+Rock Breaker,12,1,41
+Barbed Club,12,1,38
+Petrified Club,12,1,35
+Wyrm Mace,12,1,34
+Dream Mace,12,1,32
+Ceremonial Mace,12,1,28
+Bladed Mace,12,1,24
+War Hammer,12,1,20
+Stone Hammer,12,1,15
+Spiked Club,12,1,10
+Tribal Club,12,1,5
+Driftwood Club,12,1,1
+Maraketh Bow,13,1,71
+Harbinger Bow,13,1,68
+Imperial Bow,13,1,66
+Spine Bow,13,1,64
+Assassin Bow,13,1,62
+Ranger Bow,13,1,60
+Citadel Bow,13,1,58
+Thicket Bow,13,1,56
+Steelwood Bow,13,1,57
+Decimation Bow,13,1,53
+Highborn Bow,13,1,50
+Ivory Bow,13,1,47
+Sniper Bow,13,1,44
+Compound Bow,13,1,41
+Decurve Bow,13,1,38
+Grove Bow,13,1,35
+Reflex Bow,13,1,36
+Death Bow,13,1,32
+Royal Bow,13,1,28
+Bone Bow,13,1,23
+Recurve Bow,13,1,18
+Composite Bow,13,1,14
+Long Bow,13,1,9
+Short Bow,13,1,5
+Crude Bow,13,1,1
+Eclipse Staff,14,1,70
+Imperial Staff,14,1,66
+Lathi,14,1,62
+Primordial Staff,14,1,58
+Moon Staff,14,1,57
+Highborn Staff,14,1,52
+Quarterstaff,14,1,45
+Woodful Staff,14,1,37
+Crescent Staff,14,1,36
+Royal Staff,14,1,28
+Long Staff,14,1,18
+Primitive Staff,14,1,9
+Gnarled Branch,14,1,4
+Exquisite Blade,15,1,70
+Infernal Sword,15,1,67
+Lion Sword,15,1,65
+Vaal Greatsword,15,1,63
+Ezomyte Blade,15,1,61
+Reaver Sword,15,1,59
+Headman's Sword,15,1,57
+Lithe Blade,15,1,56
+Wraith Sword,15,1,54
+Tiger Sword,15,1,51
+Engraved Greatsword,15,1,48
+Highland Blade,15,1,44
+Footman Sword,15,1,40
+Butcher Sword,15,1,36
+Curved Blade,15,1,35
+Spectral Sword,15,1,32
+Ornate Sword,15,1,27
+Etched Greatsword,15,1,22
+Two-Handed Sword,15,1,17
+Bastard Sword,15,1,12
+Longsword,15,1,8
+Corroded Blade,15,1,3
+Keyblade,15,22,1
+Fleshripper,16,1,70
+Void Axe,16,1,68
+Despot Axe,16,1,66
+Vaal Axe,16,1,64
+Ezomyte Axe,16,1,62
+Sundering Axe,16,1,60
+Karui Chopper,16,1,58
+Talon Axe,16,1,59
+Abyssal Axe,16,1,55
+Noble Axe,16,1,52
+Labrys,16,1,49
+Headsman Axe,16,1,45
+Timber Axe,16,1,41
+Jasper Chopper,16,1,37
+Dagger Axe,16,1,36
+Shadow Axe,16,1,33
+Gilded Axe,16,1,28
+Double Axe,16,1,23
+Poleaxe,16,1,18
+Woodsplitter,16,1,13
+Jade Chopper,16,1,9
+Stone Axe,16,1,4
+Coronal Maul,17,1,69
+Terror Maul,17,1,67
+Imperial Maul,17,1,65
+Meatgrinder,17,1,63
+Piledriver,17,1,61
+Colossus Mallet,17,1,59
+Karui Maul,17,1,57
+Solar Maul,17,1,56
+Dread Maul,17,1,54
+Plated Maul,17,1,51
+Spiny Maul,17,1,48
+Steelhead,17,1,44
+Great Mallet,17,1,40
+Totemic Maul,17,1,36
+Morning Star,17,1,34
+Fright Maul,17,1,32
+Brass Maul,17,1,27
+Jagged Maul,17,1,22
+Sledgehammer,17,1,17
+Mallet,17,1,12
+Tribal Maul,17,1,8
+Driftwood Maul,17,1,3
+Elemental Projectiles,18,22,1
+Blade Blast,18,22,16
+Kinetic Bolt,18,22,5
+Arcane Cloak,18,22,16
+Spellslinger,18,22,24
+Artillery Ballista,18,22,28
+Ensnaring Arrow,18,22,16
+Shrapnel Ballista,18,22,5
+Venom Gyre,18,22,12
+Pestilent Strike,18,22,28
+Summon Skitterbots,18,22,16
+Stormblast Mine,18,22,5
+Plague Bearer,18,22,24
+Withering Step,18,22,10
+Summon Carrion Golem,18,22,34
+Cobra Lash,18,22,5
+Pride,18,22,24
+Flesh and Stone,18,22,16
+Precision,18,22,10
+Frostblink,18,22,5
+Chain Hook,18,22,12
+Perforate,18,22,5
+Berserk,18,22,34
+Blood and Sand,18,22,5
+Bladestorm,18,22,28
+Dash,18,22,5
+Steelskin,18,22,5
+Malevolence,18,22,24
+Zealotry,18,22,24
+Wave of Conviction,18,22,16
+Divine Ire,18,22,28
+Stormbind,18,22,28
+Bane,18,22,24
+Soulrend,18,22,28
+Purifying Flame,18,22,5
+Brand Recall,18,22,16
+Armageddon Brand,18,22,28
+Shattering Steel,18,22,12
+Dread Banner,18,22,24
+War Banner,18,22,5
+Storm Brand,18,22,12
+Lancing Steel,18,22,28
+Rending Steel,18,22,12
+Winter Orb,18,22,28
+Summon Holy Relic,18,22,5
+Toxic Rain,18,22,12
+Scourge Arrow,18,22,28
+Smite,18,22,5
+Consecrated Path,18,22,28
+Vaal Ancestral Warchief,18,22,28
+Vaal Blight,18,22,1
+Vaal Earthquake,18,22,28
+Vaal Flesh Offering,18,22,12
+Seismic Trap,18,22,28
+Lightning Spire Trap,18,22,28
+Flamethrower Trap,18,22,28
+Siphoning Trap,18,22,10
+Explosive Trap,18,22,5
+Capture Monster,18,22,1
+Vulnerability,18,22,24
+Tectonic Slam,18,22,28
+Spectral Spinning Weapon,18,22,10
+Bodyswap,18,22,10
+Cremation,18,22,28
+Infernal Sweep,18,22,12
+Storm Burst,18,22,12
+Dark Pact,18,22,28
+Scorching Ray,18,22,12
+Ancestral Warchief,18,22,28
+Ancestral Blademaster,18,22,12
+Ancestral Protector,18,22,5
+Vortex,18,22,28
+Frostbolt,18,22,5
+Sunder,18,22,12
+Shadow Blades,18,22,1
+Essence Drain,18,22,12
+Blight,18,22,5
+Wither,18,22,10
+Contagion,18,22,5
+Earthquake,18,22,28
+Righteous Lightning,18,22,16
+Summon Stone Golem,18,22,34
+Orb of Storms,18,22,5
+Frost Bomb,18,22,5
+Vaal Blade Vortex,18,22,12
+New Blade Vortex,18,22,12
+Blade Vortex,18,22,12
+Static Tether,18,22,1
+Siege Ballista,18,22,12
+Bladefall,18,22,28
+Blast Rain,18,22,28
+Galvanic Arrow,18,22,5
+Wild Strike,18,22,28
+Ice Trap,18,22,28
+Magma Orb,18,22,5
+Vigilant Strike,18,22,5
+Frost Blades,18,22,5
+Flame Dash,18,22,10
+Detonate Mines,18,22,8
+Abyssal Cry,18,22,34
+Rallying Cry,18,22,10
+Ice Crash,18,22,28
+Summon Lightning Golem,18,22,34
+Summon Flame Golem,18,22,34
+Summon Ice Golem,18,22,34
+Summon Chaos Golem,18,22,34
+Touch of God,18,22,31
+Kinetic Blast,18,22,28
+Blink Arrow,18,22,10
+Mirror Arrow,18,22,10
+Lightning Channel,18,22,1
+Lightning Circle,18,22,1
+Lightning Tendrils,18,22,5
+Poacher's Mark,18,22,24
+Herald of Purity,18,22,16
+Herald of Agony,18,22,16
+Herald of Thunder,18,22,16
+Herald of Ice,18,22,16
+Herald of Ash,18,22,16
+Herald of Blood,18,22,16
+Vaal Lightning Trap,18,22,12
+Tornado Shot,18,22,28
+Pyroclast Mine,18,22,28
+Vaal Flameblast,18,22,28
+...,18,22,1
+Vaal Breach,18,22,10
+Vaal Righteous Fire,18,22,16
+Vaal Sweep,18,22,12
+Vaal FireTrap,18,22,5
+Vaal Haste,18,22,24
+Vaal Discipline,18,22,24
+Vaal Grace,18,22,24
+Vaal Clarity,18,22,10
+Molten Strike,18,22,5
+Vaal Reave,18,22,12
+Vaal Storm Call,18,22,12
+Vaal Summon Skeletons,18,22,10
+Vaal Glacial Hammer,18,22,1
+Vaal Double Strike,18,22,1
+Vaal Heavy Strike,18,22,1
+Vaal Lightning Strike,18,22,12
+Vaal Spectral Throw,18,22,1
+Vaal Cold Snap,18,22,16
+Vaal Rain of Arrows,18,22,12
+Vaal Ground Slam,18,22,1
+Vaal Detonate Dead,18,22,4
+Wand Teleport,18,22,1
+Vaal Ice Nova,18,22,12
+Vaal Cyclone,18,22,28
+Vaal Power Siphon,18,22,12
+Vaal Immortal Call,18,22,34
+Vaal Lightning Warp,18,22,10
+Vaal Molten Shell,18,22,4
+Vaal Burning Arrow,18,22,1
+Vaal Spark,18,22,1
+Vaal Arc,18,22,12
+Vaal Fireball,18,22,1
+Convocation,18,22,24
+Glacial Cascade,18,22,28
+Spirit Offering,18,22,12
+Bone Offering,18,22,12
+Flesh Offering,18,22,12
+Desecrate,18,22,16
+Flame Surge,18,22,12
+Summon Raging Spirit,18,22,5
+Wildfire,18,22,4
+Vortex Mine,18,22,1
+Ball Lightning,18,22,28
+Barrage,18,22,12
+Flameblast,18,22,28
+Storm Call,18,22,12
+Vaal Impurity of Lightning,18,22,24
+Purity of Lightning,18,22,24
+Vaal Impurity of Ice,18,22,24
+Purity of Ice,18,22,24
+Vaal Impurity of Fire,18,22,24
+Purity of Fire,18,22,24
+Animate Weapon,18,22,5
+Spectral Throw,18,22,5
+Animate Guardian,18,22,28
+Smoke Mine,18,22,10
+Lightning Trap,18,22,12
+Reave,18,22,12
+Searing Bond,18,22,12
+Cyclone,18,22,28
+Incinerate,18,22,12
+Conductivity,18,22,24
+Frostbite,18,22,24
+Flammability,18,22,24
+Holy Flame Totem,18,22,5
+Arctic Armour,18,22,16
+Ethereal Knives,18,22,5
+Devouring Totem,18,22,5
+Decoy Totem,18,22,5
+Fire Trap,18,22,12
+Bear Trap,18,22,5
+Conversion Trap,18,22,5
+Icicle Mine,18,22,12
+Rejuvenation Totem,18,22,5
+Shockwave Totem,18,22,28
+Clarity,18,22,10
+Burning Arrow,18,22,5
+Wrath,18,22,24
+Hatred,18,22,24
+Anger,18,22,24
+Determination,18,22,24
+Grace,18,22,24
+Discipline,18,22,24
+Vitality,18,22,24
+Purity of Elements,18,22,24
+Haste,18,22,24
+Arc,18,22,12
+Lightning Arrow,18,22,12
+Puncture,18,22,5
+Blade Trap,18,22,4
+Power Siphon,18,22,12
+Molten Shell,18,22,5
+Tempest Shield,18,22,16
+Lightning Strike,18,22,12
+Firestorm,18,22,12
+Rain of Arrows,18,22,12
+Dominating Blow,18,22,28
+Heavy Strike,18,22,5
+Reckoning,18,22,5
+Vengeance,18,22,24
+Riposte,18,22,5
+Summon Skeletons Channelled,18,22,10
+Summon Skeletons,18,22,10
+Lightning Warp,18,22,10
+Despair,18,22,24
+Projectile Weakness,18,22,24
+Assassin's Mark,18,22,24
+Enfeeble,18,22,24
+NewPunishment,18,22,24
+Punishment,18,22,24
+Warlord's Mark,18,22,24
+Elemental Weakness,18,22,24
+Temporal Chains,18,22,24
+Explosive Arrow,18,22,28
+Phase Run,18,22,34
+Viper Strike,18,22,5
+New Shock Nova,18,22,28
+Shock Nova,18,22,28
+Freezing Pulse,18,22,5
+Frost Wall,18,22,5
+Glacial Hammer,18,22,5
+Infernal Blow,18,22,12
+Raise Spectre,18,22,28
+Ice Spear,18,22,12
+Spark,18,22,5
+Flicker Strike,18,22,10
+Backstab,18,22,1
+Riptide,18,22,28
+Portal,18,22,10
+Discharge,18,22,28
+Fire Weapon,18,22,14
+Righteous Fire,18,22,16
+Ignite,18,22,14
+Icefire,18,22,14
+Blood Rage,18,22,16
+Damage Infusion,18,22,14
+Split Arrow,18,22,5
+Static Strike,18,22,12
+Ice Shot,18,22,5
+Arctic Breath,18,22,12
+Caustic Arrow,18,22,5
+Snipe,18,22,11
+Unearth,18,22,10
+Volatile Dead,18,22,12
+Detonate Dead,18,22,5
+Raise Zombie,18,22,5
+Cold Snap,18,22,16
+Frenzy,18,22,16
+Whirling Blades,18,22,10
+Dual Strike,18,22,5
+Immortal Call,18,22,34
+Elemental Hit,18,22,12
+Lacerate,18,22,12
+Double Strike,18,22,5
+Enduring Cry,18,22,16
+Shield Charge,18,22,10
+Cleave,18,22,5
+Ground Slam,18,22,5
+Discorectangle Slam,18,22,12
+Sweep,18,22,12
+Blade Flurry,18,22,28
+Charged Dash,18,22,28
+Leap Slam,18,22,10
+Ice Nova,18,22,12
+Fireball,18,22,5
+Spectral Shield Throw,18,22,12
+Second Wind Support,19,22,31
+Archmage Support,19,22,31
+Infernal Legion Support,19,22,8
+Awakened Unleash Support,19,22,72
+Awakened Unbound Ailments Support,19,22,72
+Awakened Spell Echo Support,19,22,72
+Awakened Spell Cascade Support,19,22,72
+Awakened Minion Damage Support,19,22,72
+Awakened Lightning Penetration Support,19,22,72
+Awakened Increased Area of Effect Support,19,22,72
+Awakened Elemental Focus Support,19,22,72
+Awakened Curse On Hit Support,19,22,72
+Awakened Controlled Destruction Support,19,22,72
+Awakened Cast While Channelling Support,19,22,72
+Awakened Blasphemy Support,19,22,72
+Awakened Added Lightning Damage Support,19,22,72
+Awakened Added Chaos Damage Support,19,22,72
+Awakened Vicious Projectiles Support,19,22,72
+Awakened Void Manipulation Support,19,22,72
+Awakened Swift Affliction Support,19,22,72
+Awakened Greater Multiple Projectiles Support,19,22,72
+Awakened Fork Support,19,22,72
+Awakened Deadly Ailments Support,19,22,72
+Awakened Cold Penetration Support,19,22,72
+Awakened Chain Support,19,22,72
+Awakened Cast On Critical Strike Support,19,22,72
+Awakened Arrow Nova Support,19,22,72
+Awakened Added Cold Damage Support,19,22,72
+Awakened Multistrike Support,19,22,72
+Awakened Melee Splash Support,19,22,72
+Awakened Melee Physical Damage Support,19,22,72
+Awakened Generosity Support,19,22,72
+Awakened Fire Penetration Support,19,22,72
+Awakened Elemental Damage with Attacks Support,19,22,72
+Awakened Burning Damage Support,19,22,72
+Awakened Brutality Support,19,22,72
+Awakened Ancestral Call Support,19,22,72
+Awakened Added Fire Damage Support,19,22,72
+Barrage Support,19,22,38
+Arrow Nova Support,19,22,8
+Swift Assembly Support,19,22,5
+High-Impact Mine Support,19,22,31
+Meat Shield Support,19,22,31
+Nightblade Support,19,22,18
+Deathmark Support,19,22,18
+Feeding Frenzy Support,19,22,31
+Rage Support,19,22,18
+Pulverise Support,19,22,31
+Impale Support,19,22,31
+Shockwave Support,19,22,18
+Close Combat Support,19,22,18
+Unleash Support,19,22,38
+Intensify Support,19,22,31
+Energy Leech Support,19,22,31
+Multiple Totems Support,19,22,38
+Bonechill Support,19,22,38
+Withering Touch Support,19,22,38
+Charged Mines Support,19,22,31
+Charged Traps Support,19,22,31
+Mirage Archer Support,19,22,5
+Summon Phantasm Support,19,22,5
+Ancestral Call Support,19,22,5
+Spell Cascade Support,19,22,5
+Volley Support,19,22,5
+Infused Channelling Support,19,22,5
+Arcane Surge Support,19,22,5
+Onslaught Support,19,22,5
+Ruthless Support,19,22,5
+Brutality Support,19,22,38
+Unbound Ailments Support,19,22,8
+Immolate Support,19,22,38
+Maim Support,19,22,8
+Vile Toxins Support,19,22,38
+Efficacy Support,19,22,31
+Decay Support,19,22,38
+Lesser Reduced Mana Cost Support,19,22,1
+Deadly Ailments Support,19,22,18
+Lesser Poison Support,19,22,5
+Chance to Bleed Support,19,22,5
+Ignite Proliferation Support,19,22,38
+Vaal Soul Harvesting,19,22,31
+Cast while Channelling Support,19,22,38
+Advanced Traps Support,19,22,31
+Minefield Support,19,22,38
+Elemental Focus Support,19,22,18
+Cluster Traps Support,19,22,38
+Swift Affliction Support,19,22,31
+Controlled Destruction Support,19,22,18
+Void Manipulation Support,19,22,8
+Poison Support,19,22,31
+Trap and Mine Damage Support,19,22,18
+Innervate Support,19,22,31
+Hypothermia Support,19,22,31
+Ice Bite Support,19,22,31
+Fortify Support,19,22,31
+Blasphemy Support,19,22,31
+Physical to Lightning Support,19,22,18
+Generosity Support,19,22,31
+Block Chance Reduction Support,19,22,18
+Enlighten Support,19,22,38
+Vicious Projectiles Support,19,22,18
+Enhance Support,19,22,38
+Cast when Stunned Support,19,22,38
+Cast when Damage Taken Support,19,22,38
+Cast on Death Support,19,22,38
+Less Duration Support,19,22,31
+Slower Projectiles Support,19,22,31
+Endurance Charge on Melee Stun Support,19,22,18
+Empower Support,19,22,38
+Multiple Traps Support,19,22,8
+Cast on Melee Kill Support,19,22,38
+Cast On Critical Strike Support,19,22,38
+Curse On Hit Support,19,22,38
+Elemental Army Support,19,22,31
+Burning Damage Support,19,22,31
+Power Charge On Critical Support,19,22,18
+Melee Splash Support,19,22,8
+Spell Echo Support,19,22,38
+Multistrike Support,19,22,38
+Return Projectiles Support,19,22,24
+Fork Support,19,22,31
+Split Projectiles Support,19,22,24
+Chain Support,19,22,38
+Lightning Penetration Support,19,22,31
+Cold Penetration Support,19,22,31
+Fire Penetration Support,19,22,31
+Ballista Totem Support,19,22,8
+Blind Support,19,22,8
+Chance to Flee Support,19,22,8
+Blastchain Mine Support,19,22,8
+Spell Totem Support,19,22,8
+Damage on Full Life Support,19,22,18
+Iron Will Support,19,22,18
+Iron Grip Support,19,22,18
+Point Blank Support,19,22,18
+Culling Strike Support,19,22,18
+WIP Support,19,22,1
+Blood Magic Support,19,22,31
+Elemental Proliferation Support,19,22,5
+Life Gain on Hit Support,19,22,8
+Bloodlust Support,19,22,18
+Elemental Damage with Attacks Support,19,22,18
+Minion Life Support,19,22,18
+Minion Speed Support,19,22,18
+Combustion Support,19,22,8
+Cold to Fire Support,19,22,18
+Increased Duration Support,19,22,31
+Minion Damage Support,19,22,8
+Concentrated Effect Support,19,22,18
+Faster Casting Support,19,22,18
+Item Rarity Support,19,22,31
+Item Quantity Support,19,22,24
+Melee Physical Damage Support,19,22,18
+Trap Support,19,22,8
+Pierce Support,19,22,5
+Stun Support,19,22,8
+Added Chaos Damage Support,19,22,31
+Mana Leech Support,19,22,31
+Life Leech Support,19,22,31
+Knockback Support,19,22,8
+Increased Critical Damage Support,19,22,18
+Increased Critical Strikes Support,19,22,8
+Inspiration Support,19,22,31
+Added Lightning Damage Support,19,22,8
+Increased Area of Effect Support,19,22,38
+Additional Accuracy Support,19,22,8
+Added Cold Damage Support,19,22,8
+Faster Projectiles Support,19,22,31
+Greater Volley Support,19,22,38
+Lesser Multiple Projectiles Support,19,22,8
+Greater Multiple Projectiles Support,19,22,38
+Faster Attacks Support,19,22,18
+Added Fire Damage Support,19,22,8
+Serrated Arrow Quiver,20,1,1
+Ornate Quiver,20,1,45
+Spike-Point Arrow Quiver,20,1,45
+Penetrating Arrow Quiver,20,1,36
+Broadhead Arrow Quiver,20,1,28
+Fire Arrow Quiver,20,1,22
+Blunt Arrow Quiver,20,1,16
+Sharktooth Arrow Quiver,20,1,10
+Two-Point Arrow Quiver,20,1,5
+Light Quiver,20,1,15
+Heavy Quiver,20,1,7
+Conductive Quiver,20,1,2
+Rugged Quiver,20,1,2
+Cured Quiver,20,1,2
+Stygian Vise,21,1,1
+Golden Obi,21,1,12
+Crystal Belt,21,1,73
+Vanguard Belt,21,1,73
+Studded Belt,21,1,20
+Cloth Belt,21,1,20
+Heavy Belt,21,1,10
+Leather Belt,21,1,10
+Chain Belt,21,1,2
+Rustic Sash,21,1,2
+Fingerless Silk Gloves,22,1,70
+Gripped Gloves,22,1,70
+Spiked Gloves,22,1,70
+Golden Bracers,22,1,12
+Murder Mitts,22,1,67
+Assassin's Mitts,22,1,58
+Carnal Mitts,22,1,50
+Ambush Mitts,22,1,45
+Trapper Mitts,22,1,36
+Clasped Mitts,22,1,31
+Strapped Mitts,22,1,16
+Wrapped Mitts,22,1,5
+Crusader Gloves,22,1,66
+Legion Gloves,22,1,57
+Soldier Gloves,22,1,51
+Zealot Gloves,22,1,43
+Riveted Gloves,22,1,37
+Mesh Gloves,22,1,32
+Ringmail Gloves,22,1,19
+Chain Gloves,22,1,7
+Dragonscale Gauntlets,22,1,67
+Hydrascale Gauntlets,22,1,59
+Wyrmscale Gauntlets,22,1,49
+Serpentscale Gauntlets,22,1,43
+Steelscale Gauntlets,22,1,36
+Bronzescale Gauntlets,22,1,27
+Ironscale Gauntlets,22,1,15
+Fishscale Gauntlets,22,1,4
+Sorcerer Gloves,22,1,69
+Arcanist Gloves,22,1,60
+Conjurer Gloves,22,1,55
+Samite Gloves,22,1,47
+Satin Gloves,22,1,41
+Embroidered Gloves,22,1,36
+Silk Gloves,22,1,25
+Velvet Gloves,22,1,12
+Wool Gloves,22,1,3
+Slink Gloves,22,1,70
+Stealth Gloves,22,1,62
+Shagreen Gloves,22,1,54
+Sharkskin Gloves,22,1,45
+Eelskin Gloves,22,1,38
+Nubuck Gloves,22,1,33
+Deerskin Gloves,22,1,21
+Goathide Gloves,22,1,9
+Rawhide Gloves,22,1,3
+Titan Gauntlets,22,1,69
+Vaal Gauntlets,22,1,63
+Goliath Gauntlets,22,1,53
+Ancient Gauntlets,22,1,47
+Antique Gauntlets,22,1,39
+Steel Gauntlets,22,1,35
+Bronze Gauntlets,22,1,23
+Plated Gauntlets,22,1,11
+Iron Gauntlets,22,1,1
+Two-Toned Boots,23,1,70
+Avian Slippers,23,1,1
+Golden Caligae,23,1,12
+Murder Boots,23,1,69
+Assassin's Boots,23,1,63
+Carnal Boots,23,1,55
+Ambush Boots,23,1,47
+Trapper Boots,23,1,41
+Shackled Boots,23,1,34
+Clasped Boots,23,1,27
+Strapped Boots,23,1,16
+Wrapped Boots,23,1,6
+Crusader Boots,23,1,64
+Legion Boots,23,1,58
+Soldier Boots,23,1,49
+Zealot Boots,23,1,40
+Riveted Boots,23,1,36
+Mesh Boots,23,1,28
+Ringmail Boots,23,1,13
+Chain Boots,23,1,5
+Dragonscale Boots,23,1,65
+Hydrascale Boots,23,1,59
+Wyrmscale Boots,23,1,51
+Serpentscale Boots,23,1,42
+Steelscale Boots,23,1,36
+Bronzescale Boots,23,1,30
+Ironscale Boots,23,1,18
+Leatherscale Boots,23,1,6
+Sorcerer Boots,23,1,67
+Arcanist Slippers,23,1,61
+Conjurer Boots,23,1,53
+Samite Slippers,23,1,44
+Satin Slippers,23,1,38
+Scholar Boots,23,1,32
+Silk Slippers,23,1,22
+Velvet Slippers,23,1,9
+Wool Shoes,23,1,3
+Slink Boots,23,1,69
+Stealth Boots,23,1,62
+Shagreen Boots,23,1,55
+Sharkskin Boots,23,1,44
+Eelskin Boots,23,1,39
+Nubuck Boots,23,1,34
+Deerskin Boots,23,1,22
+Goathide Boots,23,1,12
+Rawhide Boots,23,1,3
+Kaom's Greaves,23,1,1
+Titan Greaves,23,1,68
+Vaal Greaves,23,1,62
+Goliath Greaves,23,1,54
+Ancient Greaves,23,1,46
+Antique Greaves,23,1,37
+Reinforced Greaves,23,1,33
+Plated Greaves,23,1,23
+Steel Greaves,23,1,9
+Iron Greaves,23,1,1
+Golden Mantle,24,1,20
+Sacrificial Garb,24,1,72
+Carnal Armour,24,1,71
+Sadist Garb,24,1,68
+Blood Raiment,24,1,65
+Varnished Coat,24,1,62
+Sentinel Jacket,24,1,59
+Crypt Armour,24,1,56
+Lacquered Garb,24,1,52
+Crimson Raiment,24,1,48
+Sleek Coat,24,1,44
+Quilted Jacket,24,1,40
+Bone Armour,24,1,35
+Waxed Garb,24,1,32
+Scarlet Raiment,24,1,28
+Oiled Coat,24,1,22
+Padded Jacket,24,1,18
+Oiled Vest,24,1,9
+Padded Vest,24,1,4
+Saintly Chainmail,24,1,70
+Saint's Hauberk,24,1,67
+Elegant Ringmail,24,1,64
+Conquest Chainmail,24,1,61
+Loricated Ringmail,24,1,58
+Devout Chainmail,24,1,55
+Chain Hauberk,24,1,51
+Ornate Ringmail,24,1,47
+Crusader Chainmail,24,1,43
+Latticed Ringmail,24,1,39
+Holy Chainmail,24,1,35
+Full Chainmail,24,1,32
+Full Ringmail,24,1,28
+Chainmail Doublet,24,1,21
+Ringmail Coat,24,1,17
+Chainmail Tunic,24,1,8
+Chainmail Vest,24,1,4
+Triumphant Lamellar,24,1,69
+General's Brigandine,24,1,66
+Full Dragonscale,24,1,63
+Desert Brigandine,24,1,60
+Dragonscale Doublet,24,1,57
+Battle Lamellar,24,1,54
+Commander's Brigandine,24,1,50
+Full Wyrmscale,24,1,46
+Hussar Brigandine,24,1,42
+Wyrmscale Doublet,24,1,38
+Field Lamellar,24,1,35
+Soldier's Brigandine,24,1,32
+Full Scale Armour,24,1,28
+Infantry Brigandine,24,1,21
+Scale Doublet,24,1,17
+Light Brigandine,24,1,8
+Scale Vest,24,1,4
+Vaal Regalia,24,1,68
+Widowsilk Robe,24,1,65
+Occultist's Vestment,24,1,62
+Necromancer Silks,24,1,59
+Savant's Robe,24,1,56
+Destroyer Regalia,24,1,53
+Spidersilk Robe,24,1,49
+Conjurer's Vestment,24,1,45
+Silken Wrap,24,1,41
+Sage's Robe,24,1,37
+Cabalist Regalia,24,1,35
+Silk Robe,24,1,32
+Mage's Vestment,24,1,28
+Silken Garb,24,1,25
+Scholar's Robe,24,1,18
+Silken Vest,24,1,11
+Simple Robe,24,1,3
+Assassin's Garb,24,1,68
+Zodiac Leather,24,1,65
+Exquisite Leather,24,1,62
+Destiny Leather,24,1,59
+Sharkskin Tunic,24,1,56
+Cutthroat's Garb,24,1,53
+Coronal Leather,24,1,49
+Glorious Leather,24,1,45
+Frontier Leather,24,1,41
+Eelskin Tunic,24,1,37
+Thief's Garb,24,1,35
+Sun Leather,24,1,32
+Full Leather,24,1,28
+Wild Leather,24,1,25
+Buckskin Tunic,24,1,17
+Strapped Leather,24,1,9
+Shabby Jerkin,24,1,2
+Kaom's Plate,24,1,1
+Glorious Plate,24,1,68
+Gladiator Plate,24,1,65
+Astral Plate,24,1,62
+Crusader Plate,24,1,59
+Golden Plate,24,1,56
+Majestic Plate,24,1,53
+Colosseum Plate,24,1,49
+Sun Plate,24,1,45
+Battle Plate,24,1,41
+Bronze Plate,24,1,37
+Lordly Plate,24,1,35
+Arena Plate,24,1,32
+Full Plate,24,1,28
+War Plate,24,1,21
+Copper Plate,24,1,17
+Chestplate,24,1,6
+Plate Vest,24,1,1
+Bone Helmet,25,1,73
+Golden Visage,25,1,12
+Golden Wreath,25,1,12
+Deicide Mask,25,1,67
+Vaal Mask,25,1,62
+Harlequin Mask,25,1,57
+Regicide Mask,25,1,52
+Callous Mask,25,1,45
+Raven Mask,25,1,38
+Golden Mask,25,1,35
+Festival Mask,25,1,28
+Iron Mask,25,1,17
+Plague Mask,25,1,10
+Scare Mask,25,1,4
+Praetor Crown,25,1,68
+Prophet Crown,25,1,63
+Magistrate Crown,25,1,58
+Great Crown,25,1,53
+Zealot Helmet,25,1,44
+Aventail Helmet,25,1,37
+Crusader Helmet,25,1,31
+Great Helmet,25,1,22
+Soldier Helmet,25,1,12
+Rusted Coif,25,1,5
+Nightmare Bascinet,25,1,67
+Pig-Faced Bascinet,25,1,63
+Fluted Bascinet,25,1,58
+Lacquered Helmet,25,1,51
+Fencer Helm,25,1,43
+Secutor Helm,25,1,36
+Gilded Sallet,25,1,33
+Visored Sallet,25,1,23
+Sallet,25,1,13
+Battered Helm,25,1,4
+Hubris Circlet,25,1,69
+Mind Cage,25,1,65
+Solaris Circlet,25,1,59
+Necromancer Circlet,25,1,54
+Steel Circlet,25,1,48
+Lunaris Circlet,25,1,39
+Bone Circlet,25,1,34
+Tribal Circlet,25,1,26
+Torture Cage,25,1,17
+Iron Circlet,25,1,8
+Vine Circlet,25,1,3
+Lion Pelt,25,1,70
+Sinner Tricorne,25,1,64
+Silken Hood,25,1,60
+Ursine Pelt,25,1,55
+Noble Tricorne,25,1,47
+Hunter Hood,25,1,41
+Wolf Pelt,25,1,30
+Leather Hood,25,1,20
+Tricorne,25,1,10
+Leather Cap,25,1,3
+Eternal Burgonet,25,1,69
+Royal Burgonet,25,1,65
+Ezomyte Burgonet,25,1,60
+Samite Helmet,25,1,55
+Siege Helmet,25,1,48
+Reaver Helmet,25,1,40
+Gladiator Helmet,25,1,35
+Close Helmet,25,1,26
+Barbute Helmet,25,1,18
+Cone Helmet,25,1,7
+Iron Hat,25,1,1
+Golden Flame,26,1,15
+Supreme Spiked Shield,26,1,70
+Mirrored Spiked Shield,26,1,66
+Ezomyte Spiked Shield,26,1,62
+Alder Spiked Shield,26,1,58
+Sovereign Spiked Shield,26,1,54
+Polished Spiked Shield,26,1,49
+Compound Spiked Shield,26,1,45
+Redwood Spiked Shield,26,1,39
+Ornate Spiked Shield,26,1,33
+Burnished Spiked Shield,26,1,27
+Alloyed Spiked Shield,26,1,20
+Driftwood Spiked Shield,26,1,12
+Spiked Bundle,26,1,5
+Archon Kite Shield,26,1,68
+Mosaic Kite Shield,26,1,65
+Champion Kite Shield,26,1,62
+Branded Kite Shield,26,1,59
+Angelic Kite Shield,26,1,55
+Laminated Kite Shield,26,1,50
+Steel Kite Shield,26,1,46
+Etched Kite Shield,26,1,40
+Ceremonial Kite Shield,26,1,34
+Layered Kite Shield,26,1,27
+Reinforced Kite Shield,26,1,20
+Linden Kite Shield,26,1,13
+Plank Kite Shield,26,1,7
+Elegant Round Shield,26,1,70
+Cardinal Round Shield,26,1,66
+Spiny Round Shield,26,1,62
+Teak Round Shield,26,1,58
+Baroque Round Shield,26,1,54
+Crimson Round Shield,26,1,49
+Spiked Round Shield,26,1,45
+Maple Round Shield,26,1,39
+Splendid Round Shield,26,1,33
+Scarlet Round Shield,26,1,27
+Studded Round Shield,26,1,20
+Fir Round Shield,26,1,12
+Rotted Round Shield,26,1,5
+Titanium Spirit Shield,26,1,68
+Harmonic Spirit Shield,26,1,65
+Vaal Spirit Shield,26,1,62
+Fossilised Spirit Shield,26,1,59
+Lacewood Spirit Shield,26,1,56
+Thorium Spirit Shield,26,1,53
+Chiming Spirit Shield,26,1,49
+Ancient Spirit Shield,26,1,45
+Ivory Spirit Shield,26,1,41
+Walnut Spirit Shield,26,1,37
+Brass Spirit Shield,26,1,33
+Jingling Spirit Shield,26,1,28
+Tarnished Spirit Shield,26,1,23
+Bone Spirit Shield,26,1,15
+Yew Spirit Shield,26,1,9
+Twig Spirit Shield,26,1,3
+Imperial Buckler,26,1,69
+Crusader Buckler,26,1,66
+Vaal Buckler,26,1,63
+Lacquered Buckler,26,1,60
+Ironwood Buckler,26,1,57
+Golden Buckler,26,1,54
+Battle Buckler,26,1,50
+Corrugated Buckler,26,1,46
+Enameled Buckler,26,1,42
+Oak Buckler,26,1,38
+Gilded Buckler,26,1,34
+War Buckler,26,1,29
+Hammered Buckler,26,1,23
+Painted Buckler,26,1,16
+Pine Buckler,26,1,8
+Goathide Buckler,26,1,2
+Pinnacle Tower Shield,26,1,70
+Colossal Tower Shield,26,1,67
+Ezomyte Tower Shield,26,1,64
+Ebony Tower Shield,26,1,61
+Shagreen Tower Shield,26,1,58
+Crested Tower Shield,26,1,55
+Girded Tower Shield,26,1,51
+Bronze Tower Shield,26,1,47
+Mahogany Tower Shield,26,1,43
+Buckskin Tower Shield,26,1,39
+Painted Tower Shield,26,1,35
+Reinforced Tower Shield,26,1,30
+Copper Tower Shield,26,1,24
+Cedar Tower Shield,26,1,17
+Rawhide Tower Shield,26,1,11
+Corroded Tower Shield,26,1,5
+Splintered Tower Shield,26,1,1
+Awakener's Orb,30,22,1
+Warlord's Exalted Orb,30,22,1
+Hunter's Exalted Orb,30,22,1
+Redeemer's Exalted Orb,30,22,1
+Crusader's Exalted Orb,30,22,1
+Golden Oil,30,22,80
+Silver Oil,30,22,78
+Opalescent Oil,30,22,73
+Black Oil,30,22,68
+Crimson Oil,30,22,60
+Violet Oil,30,22,52
+Azure Oil,30,22,44
+Teal Oil,30,22,36
+Verdant Oil,30,22,27
+Amber Oil,30,22,19
+Sepia Oil,30,22,10
+Clear Oil,30,22,1
+Stacked Deck,30,22,50
+Intrinsic Catalyst,30,22,1
+Prismatic Catalyst,30,22,1
+Fertile Catalyst,30,22,1
+Tempering Catalyst,30,22,1
+Abrasive Catalyst,30,22,1
+Imbued Catalyst,30,22,1
+Turbulent Catalyst,30,22,1
+Gilded Fossil,30,22,1
+Sanctified Fossil,30,22,1
+Tangled Fossil,30,22,1
+Glyphic Fossil,30,22,1
+Fractured Fossil,30,22,1
+Hollow Fossil,30,22,1
+Bloodstained Fossil,30,22,1
+Faceted Fossil,30,22,1
+Encrusted Fossil,30,22,1
+Enchanted Fossil,30,22,1
+Perfect Fossil,30,22,1
+Bound Fossil,30,22,1
+Shuddering Fossil,30,22,1
+Lucent Fossil,30,22,1
+Serrated Fossil,30,22,1
+Aetheric Fossil,30,22,1
+Prismatic Fossil,30,22,1
+Corroded Fossil,30,22,1
+Dense Fossil,30,22,1
+Pristine Fossil,30,22,1
+Aberrant Fossil,30,22,1
+Jagged Fossil,30,22,1
+Metallic Fossil,30,22,1
+Frigid Fossil,30,22,1
+Scorched Fossil,30,22,1
+Vial of Sacrifice,30,22,68
+Vial of Transcendence,30,22,50
+Vial of the Ghost,30,22,68
+Vial of Consequence,30,22,50
+Vial of Fate,30,22,50
+Vial of the Ritual,30,22,50
+Vial of Awakening,30,22,50
+Vial of Summoning,30,22,50
+Vial of Dominance,30,22,50
+Necromancy Net,30,22,68
+Thaumaturgical Net,30,22,68
+Strong Steel Net,30,22,64
+Reinforced Steel Net,30,22,60
+Simple Steel Net,30,22,58
+Strong Iron Net,30,22,48
+Reinforced Iron Net,30,22,37
+Simple Iron Net,30,22,25
+Strong Rope Net,30,22,15
+Reinforced Rope Net,30,22,7
+Simple Rope Net,30,22,2
+Regal Shard,30,22,12
+Exalted Shard,30,22,35
+Mirror Shard,30,22,35
+Chaos Shard,30,22,8
+Ancient Shard,30,22,35
+Engineer's Shard,30,22,8
+Harbinger's Shard,30,22,52
+Horizon Shard,30,22,52
+Binding Shard,30,22,1
+Annulment Shard,30,22,35
+Ancient Orb,30,22,1
+Engineer's Orb,30,22,1
+Harbinger's Orb,30,22,1
+Orb of Horizons,30,22,68
+Orb of Binding,30,22,1
+Orb of Annulment,30,22,35
+Simulacrum Splinter,30,22,1
+Timeless Vaal Splinter,30,22,1
+Timeless Templar Splinter,30,22,1
+Timeless Eternal Empire Splinter,30,22,1
+Timeless Maraketh Splinter,30,22,1
+Timeless Karui Splinter,30,22,1
+Blessing of Chayula,30,22,1
+Blessing of Uul-Netol,30,22,1
+Blessing of Esh,30,22,1
+Blessing of Tul,30,22,1
+Blessing of Xoph,30,22,1
+Splinter of Chayula,30,22,1
+Splinter of Uul-Netol,30,22,1
+Splinter of Esh,30,22,1
+Splinter of Tul,30,22,1
+Splinter of Xoph,30,22,1
+Unshaping Orb,30,22,1
+Master Cartographer's Seal,30,22,1
+Journeyman Cartographer's Seal,30,22,1
+Apprentice Cartographer's Seal,30,22,1
+Awakened Sextant,30,22,78
+Prime Sextant,30,22,73
+Simple Sextant,30,22,68
+Remnant of Corruption,30,22,26
+Essence of Delirium,30,22,74
+Essence of Horror,30,22,74
+Essence of Insanity,30,22,74
+Essence of Hysteria,30,22,74
+Deafening Essence of Envy,30,22,82
+Shrieking Essence of Envy,30,22,74
+Screaming Essence of Envy,30,22,58
+Deafening Essence of Scorn,30,22,82
+Shrieking Essence of Scorn,30,22,74
+Screaming Essence of Scorn,30,22,58
+Deafening Essence of Dread,30,22,82
+Shrieking Essence of Dread,30,22,74
+Screaming Essence of Dread,30,22,58
+Deafening Essence of Misery,30,22,82
+Shrieking Essence of Misery,30,22,74
+Screaming Essence of Misery,30,22,58
+Deafening Essence of Zeal,30,22,82
+Shrieking Essence of Zeal,30,22,74
+Screaming Essence of Zeal,30,22,58
+Wailing Essence of Zeal,30,22,42
+Deafening Essence of Spite,30,22,82
+Shrieking Essence of Spite,30,22,74
+Screaming Essence of Spite,30,22,58
+Wailing Essence of Spite,30,22,42
+Deafening Essence of Loathing,30,22,82
+Shrieking Essence of Loathing,30,22,74
+Screaming Essence of Loathing,30,22,58
+Wailing Essence of Loathing,30,22,42
+Deafening Essence of Anguish,30,22,82
+Shrieking Essence of Anguish,30,22,74
+Screaming Essence of Anguish,30,22,58
+Wailing Essence of Anguish,30,22,42
+Deafening Essence of Doubt,30,22,82
+Shrieking Essence of Doubt,30,22,74
+Screaming Essence of Doubt,30,22,58
+Wailing Essence of Doubt,30,22,42
+Weeping Essence of Doubt,30,22,26
+Deafening Essence of Wrath,30,22,82
+Shrieking Essence of Wrath,30,22,74
+Screaming Essence of Wrath,30,22,58
+Wailing Essence of Wrath,30,22,42
+Weeping Essence of Wrath,30,22,26
+Deafening Essence of Rage,30,22,82
+Shrieking Essence of Rage,30,22,74
+Screaming Essence of Rage,30,22,58
+Wailing Essence of Rage,30,22,42
+Weeping Essence of Rage,30,22,26
+Deafening Essence of Suffering,30,22,82
+Shrieking Essence of Suffering,30,22,74
+Screaming Essence of Suffering,30,22,58
+Wailing Essence of Suffering,30,22,42
+Weeping Essence of Suffering,30,22,26
+Deafening Essence of Fear,30,22,82
+Shrieking Essence of Fear,30,22,74
+Screaming Essence of Fear,30,22,58
+Wailing Essence of Fear,30,22,42
+Weeping Essence of Fear,30,22,26
+Muttering Essence of Fear,30,22,10
+Deafening Essence of Torment,30,22,82
+Shrieking Essence of Torment,30,22,74
+Screaming Essence of Torment,30,22,58
+Wailing Essence of Torment,30,22,42
+Weeping Essence of Torment,30,22,26
+Muttering Essence of Torment,30,22,10
+Deafening Essence of Anger,30,22,82
+Shrieking Essence of Anger,30,22,74
+Screaming Essence of Anger,30,22,58
+Wailing Essence of Anger,30,22,42
+Weeping Essence of Anger,30,22,26
+Muttering Essence of Anger,30,22,10
+Deafening Essence of Sorrow,30,22,82
+Shrieking Essence of Sorrow,30,22,74
+Screaming Essence of Sorrow,30,22,58
+Wailing Essence of Sorrow,30,22,42
+Weeping Essence of Sorrow,30,22,26
+Muttering Essence of Sorrow,30,22,10
+Deafening Essence of Contempt,30,22,82
+Shrieking Essence of Contempt,30,22,74
+Screaming Essence of Contempt,30,22,58
+Wailing Essence of Contempt,30,22,42
+Weeping Essence of Contempt,30,22,26
+Muttering Essence of Contempt,30,22,10
+Whispering Essence of Contempt,30,22,1
+Deafening Essence of Greed,30,22,82
+Shrieking Essence of Greed,30,22,74
+Screaming Essence of Greed,30,22,58
+Wailing Essence of Greed,30,22,42
+Weeping Essence of Greed,30,22,26
+Muttering Essence of Greed,30,22,10
+Whispering Essence of Greed,30,22,1
+Deafening Essence of Woe,30,22,82
+Shrieking Essence of Woe,30,22,74
+Screaming Essence of Woe,30,22,58
+Wailing Essence of Woe,30,22,42
+Weeping Essence of Woe,30,22,26
+Muttering Essence of Woe,30,22,10
+Whispering Essence of Woe,30,22,1
+Deafening Essence of Hatred,30,22,82
+Shrieking Essence of Hatred,30,22,74
+Screaming Essence of Hatred,30,22,58
+Wailing Essence of Hatred,30,22,42
+Weeping Essence of Hatred,30,22,26
+Muttering Essence of Hatred,30,22,10
+Whispering Essence of Hatred,30,22,1
+Amorphous Delirium Orb,30,22,1
+Blighted Delirium Orb,30,22,1
+Timeless Delirium Orb,30,22,1
+Imperial Delirium Orb,30,22,1
+Primal Delirium Orb,30,22,1
+Delirium Orb,30,22,1
+Diviner's Delirium Orb,30,22,1
+Portentous Delirium Orb,30,22,1
+Fossilised Delirium Orb,30,22,1
+Skittering Delirium Orb,30,22,1
+Fragmented Delirium Orb,30,22,1
+Whispering Delirium Orb,30,22,1
+Obscured Delirium Orb,30,22,1
+Foreboding Delirium Orb,30,22,1
+Decadent Delirium Orb,30,22,1
+Abyssal Delirium Orb,30,22,1
+Jeweller's Delirium Orb,30,22,1
+Cartographer's Delirium Orb,30,22,1
+Armoursmith's Delirium Orb,30,22,1
+Blacksmith's Delirium Orb,30,22,1
+Thaumaturge's Delirium Orb,30,22,1
+Singular Delirium Orb,30,22,1
+Fine Delirium Orb,30,22,1
+Imprinted Bestiary Orb,30,22,1
+Bestiary Orb,30,22,15
+Prophecy,30,22,1
+Silver Coin,30,22,1
+Perandus Coin,30,22,1
+Corrupt,30,22,1
+Enchant,30,22,1
+Vaal Orb,30,22,12
+Imprint,30,22,1
+Eternal Orb,30,22,40
+Albino Rhoa Feather,30,22,1
+Alchemy Shard,30,22,1
+Alteration Shard,30,22,1
+Transmutation Shard,30,22,1
+Scroll Fragment,30,22,1
+Cartographer's Chisel,30,22,52
+Blessed Orb,30,22,35
+Divine Orb,30,22,35
+Jeweller's Orb,30,22,8
+Orb of Fusing,30,22,8
+Chromatic Orb,30,22,2
+Gemcutter's Prism,30,22,12
+Glassblower's Bauble,30,22,2
+Portal Scroll,30,22,2
+Orb of Augmentation,30,22,1
+Regal Orb,30,22,12
+Exalted Orb,30,22,35
+Orb of Scouring,30,22,12
+Orb of Alteration,30,22,2
+Orb of Transmutation,30,22,1
+Orb of Regret,30,22,2
+Orb of Chance,30,22,2
+Orb of Alchemy,30,22,2
+Mirror of Kalandra,30,22,35
+Armourer's Scrap,30,22,1
+Chaos Orb,30,22,12
+Scroll of Wisdom,30,22,1
+Blacksmith's Whetstone,30,22,1
+Master Key,31,22,1
+Vault Key,31,22,1
+Book of Skill,31,22,1
+Book of Regrets,31,22,1
+The Staff of Purity,31,22,1
+The Teardrop,31,22,1
+Elixir of Allure,31,22,1
+Bottled Storm,31,22,1
+Calendar of Fortune,31,22,1
+Basilisk Acid,31,22,1
+Trarthan Powder,31,22,1
+Storm Blade,31,22,1
+Sekhema Feather,31,22,1
+Wings of Vastiri,31,22,1
+Ankh of Eternity,31,22,1
+Moon Orb,31,22,1
+Sun Orb,31,22,1
+Firefly,31,22,1
+Black Venom,31,22,1
+Greust's Necklace,31,22,1
+Silver Locket,31,22,1
+Kishara's Star,31,22,1
+Obsidian Key,31,22,1
+Maligaro's Map,31,22,1
+The Black Flag,31,22,1
+Bestel's Manuscript,31,22,1
+Eye of Conquest,31,22,1
+Valako's Jaw,31,22,1
+Hinekora's Hair,31,22,1
+Tukohama's Tooth,31,22,1
+Sign of Purity,31,22,1
+Eyes of Zeal,31,22,1
+Miasmeter,31,22,1
+Malachai's Entrails,31,22,1
+Malachai's Heart,31,22,1
+Malachai's Lungs,31,22,1
+The Eye of Desire,31,22,1
+The Eye of Fury,31,22,1
+Deshret's Banner,31,22,1
+Thaumetic Emblem,31,22,1
+Chitus' Plum,31,22,1
+Decanter Spiritus,31,22,1
+Golden Page,31,22,1
+Bust of Marceus Lioneye,31,22,1
+Bust of Gaius Sentari,31,22,1
+Bust of Hector Titucius,31,22,1
+Infernal Talc,31,22,1
+Sewer Keys,31,22,1
+Tower Key,31,22,1
+Ribbon Spool,31,22,1
+Tolman's Bracelet,31,22,1
+Thaumetic Sulphite,31,22,1
+Golden Hand,31,22,1
+Baleful Gem,31,22,1
+Maligaro's Spike,31,22,1
+The Apex,31,22,1
+Oak's Amulet,31,22,1
+Kraityn's Amulet,31,22,1
+Alira's Amulet,31,22,1
+Allflame,31,22,1
+Medicine Chest,31,22,1
+Roseus Glyph,31,22,1
+Ammonite Glyph,31,22,1
+Haliotis Glyph,31,22,1
+Book of Regression,31,22,1
+Book of Reform,31,22,1
+Memory Fragment XV,31,22,1
+Memory Fragment XIV,31,22,1
+Memory Fragment XIII,31,22,1
+Memory Fragment XII,31,22,1
+Memory Fragment XI,31,22,1
+Memory Fragment X,31,22,1
+Memory Fragment IX,31,22,1
+Memory Fragment VIII,31,22,1
+Memory Fragment VII,31,22,1
+Memory Fragment VI,31,22,1
+Memory Fragment V,31,22,1
+Memory Fragment IV,31,22,1
+Memory Fragment III,31,22,1
+Memory Fragment II,31,22,1
+Memory Fragment I,31,22,1
+The Shaper's Key,31,22,1
+Elder's Orb,31,22,84
+Shaper's Orb (Tier 10),31,22,77
+Shaper's Orb (Tier 9),31,22,76
+Shaper's Orb (Tier 8),31,22,75
+Shaper's Orb (Tier 7),31,22,74
+Shaper's Orb (Tier 6),31,22,73
+Shaper's Orb (Tier 5),31,22,72
+Shaper's Orb (Tier 4),31,22,71
+Shaper's Orb (Tier 3),31,22,70
+Shaper's Orb (Tier 2),31,22,69
+Shaper's Orb (Tier 1),31,22,68
+Sambar Sceptre,32,1,70
+Void Sceptre,32,1,68
+Carnal Sceptre,32,1,66
+Vaal Sceptre,32,1,64
+Platinum Sceptre,32,1,62
+Opal Sceptre,32,1,60
+Tyrant's Sekhem,32,1,58
+Karui Sceptre,32,1,56
+Stag Sceptre,32,1,55
+Abyssal Sceptre,32,1,53
+Royal Sceptre,32,1,50
+Blood Sceptre,32,1,47
+Lead Sceptre,32,1,44
+Crystal Sceptre,32,1,41
+Sekhem,32,1,38
+Grinning Fetish,32,1,35
+Horned Sceptre,32,1,36
+Shadow Sceptre,32,1,32
+Ritual Sceptre,32,1,28
+Ochre Sceptre,32,1,24
+Iron Sceptre,32,1,20
+Quartz Sceptre,32,1,15
+Bronze Sceptre,32,1,10
+Darkwood Sceptre,32,1,5
+Driftwood Sceptre,32,1,1
+Bismuth Flask,33,2,8
+Silver Flask,33,2,22
+Sulphur Flask,33,2,35
+Stibnite Flask,33,2,14
+Aquamarine Flask,33,2,27
+Basalt Flask,33,2,40
+Jade Flask,33,2,27
+Quartz Flask,33,2,27
+Amethyst Flask,33,2,18
+Quicksilver Flask,33,2,4
+Granite Flask,33,2,27
+Topaz Flask,33,2,18
+Sapphire Flask,33,2,18
+Ruby Flask,33,2,18
+Diamond Flask,34,2,27
+Harbinger Map,35,5,82
+Vaal Temple Map,35,5,83
+The Shaper's Realm,35,5,84
+Forge of the Phoenix Map,35,5,83
+Maze of the Minotaur Map,35,5,83
+Lair of the Hydra Map,35,5,83
+Pit of the Chimera Map,35,5,83
+Carcass Map,35,5,82
+Reef Map,35,5,82
+Sunken City Map,35,5,82
+Basilica Map,35,5,82
+Lava Lake Map,35,5,82
+Palace Map,35,5,81
+Dig Map,35,5,81
+Plaza Map,35,5,81
+Crimson Temple Map,35,5,81
+Dark Forest Map,35,5,81
+Acid Caverns Map,35,5,81
+Colosseum Map,35,5,81
+Core Map,35,5,80
+Desert Spring Map,35,5,80
+Arsenal Map,35,5,80
+Shrine Map,35,5,80
+Terrace Map,35,5,80
+Malformation Map,35,5,80
+Park Map,35,5,80
+Ghetto Map,35,5,80
+Caldera Map,35,5,80
+Racecourse Map,35,5,79
+Necropolis Map,35,5,79
+Primordial Blocks Map,35,5,79
+Villa Map,35,5,79
+Crystal Ore Map,35,5,79
+Castle Ruins Map,35,5,79
+Overgrown Shrine Map,35,5,79
+Summit Map,35,5,79
+Defiled Cathedral Map,35,5,79
+Pit Map,35,5,78
+Mesa Map,35,5,78
+Factory Map,35,5,78
+Waterways Map,35,5,78
+Coves Map,35,5,78
+Spider Forest Map,35,5,78
+Primordial Pool Map,35,5,78
+Colonnade Map,35,5,78
+Lair Map,35,5,78
+Promenade Map,35,5,78
+Orchard Map,35,5,77
+Cursed Crypt Map,35,5,77
+Pier Map,35,5,77
+Bog Map,35,5,77
+Precinct Map,35,5,77
+Wasteland Map,35,5,77
+Arachnid Tomb Map,35,5,77
+Belfry Map,35,5,77
+Shipyard Map,35,5,77
+Siege Map,35,5,77
+Scriptorium Map,35,5,76
+Museum Map,35,5,76
+Arena Map,35,5,76
+Temple Map,35,5,76
+Vault Map,35,5,76
+Estuary Map,35,5,76
+Plateau Map,35,5,76
+Waste Pool Map,35,5,76
+Tower Map,35,5,76
+Sepulchre Map,35,5,76
+Moon Temple Map,35,5,76
+Mineral Pools Map,35,5,75
+Tropical Island Map,35,5,75
+Shore Map,35,5,75
+Mud Geyser Map,35,5,75
+Courtyard Map,35,5,75
+Armoury Map,35,5,75
+Geode Map,35,5,75
+Vaal Pyramid Map,35,5,75
+Overgrown Ruin Map,35,5,75
+Infested Valley Map,35,5,75
+Laboratory Map,35,5,75
+Bazaar Map,35,5,74
+Arachnid Nest Map,35,5,74
+Gardens Map,35,5,74
+Underground River Map,35,5,74
+Bone Crypt Map,35,5,74
+Dunes Map,35,5,74
+Ramparts Map,35,5,74
+Residence Map,35,5,74
+Lava Chamber Map,35,5,74
+Coral Ruins Map,35,5,74
+Crater Map,35,5,74
+Underground Sea Map,35,5,73
+Cemetery Map,35,5,73
+Atoll Map,35,5,73
+Ashen Wood Map,35,5,73
+Wharf Map,35,5,73
+Thicket Map,35,5,73
+Academy Map,35,5,73
+Phantasmagoria Map,35,5,73
+Jungle Valley Map,35,5,73
+Fields Map,35,5,73
+Mausoleum Map,35,5,73
+Barrows Map,35,5,72
+Spider Lair Map,35,5,72
+Ivory Temple Map,35,5,72
+Ancient City Map,35,5,72
+Toxic Sewer Map,35,5,72
+Channel Map,35,5,72
+Maze Map,35,5,72
+Haunted Mansion Map,35,5,72
+Sulphur Vents Map,35,5,72
+Conservatory Map,35,5,72
+Canyon Map,35,5,71
+Lighthouse Map,35,5,71
+Volcano Map,35,5,71
+Glacier Map,35,5,71
+Grotto Map,35,5,71
+Chateau Map,35,5,71
+Strand Map,35,5,71
+Courthouse Map,35,5,71
+Relic Chambers Map,35,5,71
+City Square Map,35,5,71
+Arcade Map,35,5,70
+Cells Map,35,5,70
+Burial Chambers Map,35,5,70
+Port Map,35,5,70
+Peninsula Map,35,5,70
+Leyline Map,35,5,70
+Excavation Map,35,5,70
+Fungal Hollow Map,35,5,70
+Cage Map,35,5,70
+Iceberg Map,35,5,70
+Marshes Map,35,5,69
+Flooded Mine Map,35,5,69
+Arid Lake Map,35,5,69
+Desert Map,35,5,69
+Pen Map,35,5,69
+Alleyways Map,35,5,69
+Dungeon Map,35,5,58
+Graveyard Map,35,5,58
+Beach Map,35,5,58
+Lookout Map,35,5,58
+Shaped Underground River Map,35,5,82
+Shaped Gardens Map,35,5,82
+Shaped Port Map,35,5,82
+Shaped Malformation Map,35,5,82
+Shaped Courtyard Map,35,5,82
+Shaped Arsenal Map,35,5,82
+Shaped Colonnade Map,35,5,82
+Shaped Temple Map,35,5,81
+Shaped Reef Map,35,5,81
+Shaped Promenade Map,35,5,81
+Shaped Overgrown Shrine Map,35,5,81
+Shaped Orchard Map,35,5,81
+Shaped Museum Map,35,5,81
+Shaped Cursed Crypt Map,35,5,81
+Shaped Coves Map,35,5,81
+Shaped Tropical Island Map,35,5,80
+Shaped Shore Map,35,5,80
+Shaped Pier Map,35,5,80
+Shaped Atoll Map,35,5,80
+Shaped Barrows Map,35,5,80
+Shaped Cemetery Map,35,5,80
+Shaped Bog Map,35,5,80
+Shaped Arena Map,35,5,80
+Shaped Arachnid Nest Map,35,5,80
+Shaped Mud Geyser Map,35,5,79
+Shaped Ashen Wood Map,35,5,79
+Shaped Armoury Map,35,5,79
+Shaped Cells Map,35,5,79
+Shaped Bone Crypt Map,35,5,79
+Shaped Castle Ruins Map,35,5,79
+Shaped Arachnid Tomb Map,35,5,79
+Shaped Wharf Map,35,5,78
+Shaped Ancient City Map,35,5,78
+Shaped Thicket Map,35,5,78
+Shaped Strand Map,35,5,78
+Shaped Spider Forest Map,35,5,78
+Shaped Ramparts Map,35,5,78
+Shaped Racecourse Map,35,5,78
+Shaped Geode Map,35,5,78
+Shaped Canyon Map,35,5,78
+Shaped Tower Map,35,5,77
+Shaped Spider Lair Map,35,5,77
+Shaped Primordial Pool Map,35,5,77
+Shaped Pit Map,35,5,77
+Shaped Mesa Map,35,5,77
+Shaped Dunes Map,35,5,77
+Shaped Peninsula Map,35,5,77
+Shaped Burial Chambers Map,35,5,77
+Shaped Waste Pool Map,35,5,76
+Shaped Villa Map,35,5,76
+Shaped Phantasmagoria Map,35,5,76
+Shaped Graveyard Map,35,5,76
+Shaped Dungeon Map,35,5,76
+Shaped Acid Caverns Map,35,5,76
+Shaped Academy Map,35,5,76
+Shaped Vaal Pyramid Map,35,5,75
+Shaped Toxic Sewer Map,35,5,75
+Shaped Marshes Map,35,5,75
+Shaped Grotto Map,35,5,75
+Shaped Channel Map,35,5,75
+Shaped Flooded Mine Map,35,5,75
+Shaped Arid Lake Map,35,5,75
+Shaped Desert Spring Map,35,5,74
+Shaped Ghetto Map,35,5,74
+Shaped Factory Map,35,5,74
+Shaped Beach Map,35,5,74
+Shaped Jungle Valley Map,35,5,73
+Shaped Desert Map,35,5,73
+Shaped Crystal Ore Map,35,5,73
+Shaped Arcade Map,35,5,73
+Fishing Rod,37,1,1
+Gilded Metamorph Scarab,38,22,1
+Polished Metamorph Scarab,38,22,1
+Rusted Metamorph Scarab,38,22,1
+Gilded Legion Scarab,38,22,1
+Polished Legion Scarab,38,22,1
+Rusted Legion Scarab,38,22,1
+Gilded Perandus Scarab,38,22,1
+Polished Perandus Scarab,38,22,1
+Rusted Perandus Scarab,38,22,1
+Gilded Harbinger Scarab,38,22,1
+Polished Harbinger Scarab,38,22,1
+Rusted Harbinger Scarab,38,22,1
+Gilded Ambush Scarab,38,22,1
+Polished Ambush Scarab,38,22,1
+Rusted Ambush Scarab,38,22,1
+Gilded Torment Scarab,38,22,1
+Polished Torment Scarab,38,22,1
+Rusted Torment Scarab,38,22,1
+Gilded Divination Scarab,38,22,1
+Polished Divination Scarab,38,22,1
+Rusted Divination Scarab,38,22,1
+Gilded Sulphite Scarab,38,22,1
+Polished Sulphite Scarab,38,22,1
+Rusted Sulphite Scarab,38,22,1
+Gilded Elder Scarab,38,22,1
+Polished Elder Scarab,38,22,1
+Rusted Elder Scarab,38,22,1
+Gilded Shaper Scarab,38,22,1
+Polished Shaper Scarab,38,22,1
+Rusted Shaper Scarab,38,22,1
+Gilded Bestiary Scarab,38,22,1
+Polished Bestiary Scarab,38,22,1
+Rusted Bestiary Scarab,38,22,1
+Gilded Reliquary Scarab,38,22,1
+Polished Reliquary Scarab,38,22,1
+Rusted Reliquary Scarab,38,22,1
+Gilded Cartography Scarab,38,22,1
+Polished Cartography Scarab,38,22,1
+Rusted Cartography Scarab,38,22,1
+Gilded Breach Scarab,38,22,1
+Polished Breach Scarab,38,22,1
+Rusted Breach Scarab,38,22,1
+Simulacrum,38,22,75
+Timeless Vaal Emblem,38,22,75
+Timeless Templar Emblem,38,22,75
+Timeless Eternal Emblem,38,22,75
+Timeless Maraketh Emblem,38,22,75
+Timeless Karui Emblem,38,22,75
+Chayula's Pure Breachstone,38,22,80
+Uul-Netol's Pure Breachstone,38,22,76
+Esh's Pure Breachstone,38,22,72
+Tul's Pure Breachstone,38,22,70
+Xoph's Pure Breachstone,38,22,68
+Chayula's Enriched Breachstone,38,22,80
+Uul-Netol's Enriched Breachstone,38,22,76
+Esh's Enriched Breachstone,38,22,72
+Tul's Enriched Breachstone,38,22,70
+Xoph's Enriched Breachstone,38,22,68
+Chayula's Charged Breachstone,38,22,80
+Uul-Netol's Charged Breachstone,38,22,76
+Esh's Charged Breachstone,38,22,72
+Tul's Charged Breachstone,38,22,70
+Xoph's Charged Breachstone,38,22,68
+Chayula's Breachstone,38,22,80
+Uul-Netol's Breachstone,38,22,76
+Esh's Breachstone,38,22,72
+Tul's Breachstone,38,22,70
+Xoph's Breachstone,38,22,68
+Divine Vessel,38,22,68
+Maddening Object,38,22,1
+Fragment of Knowledge,38,22,80
+Fragment of Shape,38,22,80
+Fragment of Emptiness,38,22,80
+Fragment of Terror,38,22,80
+Key to Decay,38,22,1
+Fragment of Purification,38,22,80
+Fragment of Constriction,38,22,80
+Fragment of Eradication,38,22,80
+Fragment of Enslavement,38,22,80
+Key to the Crucible,38,22,1
+Fragment of the Hydra,38,22,84
+Fragment of the Chimera,38,22,84
+Fragment of the Minotaur,38,22,84
+Fragment of the Phoenix,38,22,84
+Pale Court Set,38,22,1
+Volkuur's Key,38,22,60
+Inya's Key,38,22,60
+Yriel's Key,38,22,60
+Eber's Key,38,22,60
+Mortal Set,38,22,1
+Mortal Grief,38,22,70
+Mortal Ignorance,38,22,70
+Mortal Hope,38,22,70
+Mortal Rage,38,22,70
+Sacrifice Set,38,22,1
+Sacrifice at Dusk,38,22,36
+Sacrifice at Noon,38,22,36
+Sacrifice at Dawn,38,22,36
+Sacrifice at Midnight,38,22,60
+Small Cluster Jewel,41,21,1
+Medium Cluster Jewel,41,21,1
+Large Cluster Jewel,41,21,1
+Timeless Jewel,41,10,20
+Prismatic Jewel,41,10,1
+Cobalt Jewel,41,10,20
+Viridian Jewel,41,10,20
+Crimson Jewel,41,10,20
+Council of Cats,42,22,1
+The Eldritch Decay,42,22,1
+The Progeny of Lunaris,42,22,1
+The Easy Stroll,42,22,1
+The Tinkerer's Table,42,22,1
+The Cheater,42,22,1
+The Strategist,42,22,1
+Squandered Prosperity,42,22,1
+Etched in Blood,42,22,1
+The Craving,42,22,1
+Friendship,42,22,1
+The Bones,42,22,1
+The Fishmonger,42,22,1
+Divine Justice,42,22,1
+Cameria's Cut,42,22,1
+The Chosen,42,22,1
+Deathly Designs,42,22,1
+The Escape,42,22,1
+Underground Forest,42,22,1
+Succor of the Sinless,42,22,1
+Baited Expectations,42,22,1
+The Wolf's Legacy,42,22,1
+The Deal,42,22,1
+Void of the Elements,42,22,1
+The Damned,42,22,1
+Akil's Prophecy,42,22,1
+The Demon,42,22,1
+The Eye of Terror,42,22,1
+The Skeleton,42,22,1
+Azyran's Reward,42,22,1
+The Bargain,42,22,1
+Vile Power,42,22,1
+More is Never Enough,42,22,1
+Remembrance,42,22,1
+The Heroic Shot,42,22,1
+The Price of Loyalty,42,22,1
+The Side Quest,42,22,1
+Nook's Crown,42,22,1
+The Old Man,42,22,1
+Demigod's Wager,42,22,1
+Buried Treasure,42,22,1
+Dark Dreams,42,22,1
+The Archmage's Right Hand,42,22,1
+The Deep Ones,42,22,1
+Pride of the First Ones,42,22,1
+The Fool,42,22,1
+Alluring Bounty,42,22,1
+Thirst for Knowledge,42,22,1
+Echoes of Love,42,22,1
+The Primordial,42,22,1
+Burning Blood,42,22,1
+Imperial Legacy,42,22,1
+Vanity,42,22,1
+The Lord of Celebration,42,22,1
+Sambodhi's Vow,42,22,1
+Alone in the Darkness,42,22,1
+Dark Temptation,42,22,1
+Monochrome,42,22,1
+The Golden Era,42,22,1
+Seven Years Bad Luck,42,22,1
+The Mountain,42,22,1
+The Landing,42,22,1
+Arrogance of the Vaal,42,22,1
+The Journey,42,22,1
+Boon of Justice,42,22,1
+The Mad King,42,22,1
+The Messenger,42,22,1
+The Seeker,42,22,1
+The Life Thief,42,22,1
+The Master Artisan,42,22,1
+The Nurse,42,22,1
+A Dab of Ink,42,22,1
+The Sacrifice,42,22,1
+The Cacophony,42,22,1
+The Twilight Moon,42,22,1
+Boon of the First Ones,42,22,1
+The Price of Protection,42,22,1
+Beauty Through Death,42,22,1
+The Endless Darkness,42,22,1
+The Wilted Rose,42,22,1
+The Innocent,42,22,1
+The Beast,42,22,1
+The Professor,42,22,1
+Three Voices,42,22,1
+The Rite of Elements,42,22,1
+The Undisputed,42,22,1
+The Mayor,42,22,1
+The Hale Heart,42,22,1
+The Samurai's Eye,42,22,1
+Harmony of Souls,42,22,1
+The Dreamland,42,22,1
+Perfection,42,22,1
+The Celestial Stone,42,22,1
+The Army of Blood,42,22,1
+The Sword King's Salute,42,22,1
+The Admirer,42,22,1
+The Undaunted,42,22,1
+The Fathomless Depths,42,22,1
+The Master,42,22,1
+The Darkest Dream,42,22,1
+The Jeweller's Boon,42,22,1
+Immortal Resolve,42,22,1
+The Witch,42,22,1
+The Puzzle,42,22,1
+Blessing of God,42,22,1
+The Deceiver,42,22,1
+The World Eater,42,22,1
+The Dreamer,42,22,1
+The Breach,42,22,1
+Forbidden Power,42,22,1
+The Iron Bard,42,22,1
+The Obscured,42,22,1
+The Insatiable,42,22,1
+Rebirth,42,22,1
+Left to Fate,42,22,1
+The Blazing Fire,42,22,1
+The Eye of the Dragon,42,22,1
+The Realm,42,22,1
+No Traces,42,22,1
+The Ruthless Ceinture,42,22,1
+Atziri's Arsenal,42,22,1
+Struck by Lightning,42,22,1
+The Opulent,42,22,1
+Might is Right,42,22,1
+The Valley of Steel Boxes,42,22,1
+Call to the First Ones,42,22,1
+The Saint's Treasure,42,22,1
+The Spark and the Flame,42,22,1
+Lingering Remnants,42,22,1
+The Garish Power,42,22,1
+The Forsaken,42,22,1
+The Standoff,42,22,1
+The Wolven King's Bite,42,22,1
+The Wretched,42,22,1
+Mitts,42,22,1
+The Wolverine,42,22,1
+The Polymath,42,22,1
+The Coming Storm,42,22,1
+The Porcupine,42,22,1
+Mawr Blaidd,42,22,1
+The Scavenger,42,22,1
+The Oath,42,22,1
+The Formless Sea,42,22,1
+The Valkyrie,42,22,1
+The Calling,42,22,1
+Dialla's Subjugation,42,22,1
+The Wolf,42,22,1
+The Penitent,42,22,1
+The Endurance,42,22,1
+Luck of the Vaal,42,22,1
+Light and Truth,42,22,1
+Lucky Deck,42,22,1
+Cartographer's Delight,42,22,1
+Lysah's Respite,42,22,1
+The Stormcaller,42,22,1
+The Cursed King,42,22,1
+Emperor of Purity,42,22,1
+The Lunaris Priestess,42,22,1
+The Harvester,42,22,1
+The Web,42,22,1
+The Tyrant,42,22,1
+The Void,42,22,1
+Rain Tempter,42,22,1
+Heterochromia,42,22,1
+Shard of Fate,42,22,1
+Destined to Crumble,42,22,1
+The Devastator,42,22,1
+Boundless Realms,42,22,1
+The Throne,42,22,1
+The Immortal,42,22,1
+Dying Anguish,42,22,1
+Thunderous Skies,42,22,1
+The Visionary,42,22,1
+The Sephirot,42,22,1
+The Arena Champion,42,22,1
+The Wolf's Shadow,42,22,1
+Earth Drinker,42,22,1
+Treasure Hunter,42,22,1
+Her Mask,42,22,1
+Tranquillity,42,22,1
+The Risk,42,22,1
+Rats,42,22,1
+The Dragon,42,22,1
+The Lion,42,22,1
+The Soul,42,22,1
+The Rabid Rhoa,42,22,1
+The Dapper Prodigy,42,22,1
+The Sigil,42,22,1
+Prosperity,42,22,1
+The Ethereal,42,22,1
+Glimmer of Hope,42,22,1
+Turn the Other Cheek,42,22,1
+The Body,42,22,1
+A Mother's Parting Gift,42,22,1
+The Lord in Black,42,22,1
+Lost Worlds,42,22,1
+The Offering,42,22,1
+The Traitor,42,22,1
+The Demoness,42,22,1
+The Warlord,42,22,1
+The Cartographer,42,22,1
+Merciless Armament,42,22,1
+Blind Venture,42,22,1
+Hubris,42,22,1
+Last Hope,42,22,1
+Volatile Power,42,22,1
+The Surgeon,42,22,1
+Bowyer's Dream,42,22,1
+The Surveyor,42,22,1
+The Fletcher,42,22,1
+Hunter's Reward,42,22,1
+The Enlightened,42,22,1
+The Aesthete,42,22,1
+The Thaumaturgist,42,22,1
+The Lich,42,22,1
+Anarchy's Price,42,22,1
+The Twins,42,22,1
+The Tower,42,22,1
+The Conduit,42,22,1
+Scholar of the Seas,42,22,1
+Hunter's Resolve,42,22,1
+Assassin's Favour,42,22,1
+Audacity,42,22,1
+Pride Before the Fall,42,22,1
+Loyalty,42,22,1
+The Inoculated,42,22,1
+The Mercenary,42,22,1
+The Jester,42,22,1
+Grave Knowledge,42,22,1
+Death,42,22,1
+The Survivalist,42,22,1
+The Doppelganger,42,22,1
+The Fox,42,22,1
+The Dragon's Heart,42,22,1
+Gift of the Gemling Queen,42,22,1
+The Vast,42,22,1
+The Catalyst,42,22,1
+Wealth and Power,42,22,1
+House of Mirrors,42,22,1
+The Gentleman,42,22,1
+The Trial,42,22,1
+The King's Blade,42,22,1
+The Wrath,42,22,1
+The Encroaching Darkness,42,22,1
+Doedre's Madness,42,22,1
+The Last One Standing,42,22,1
+The One With All,42,22,1
+The Siren,42,22,1
+The Flora's Gift,42,22,1
+The Betrayal,42,22,1
+The Spoiled Prince,42,22,1
+The Explorer,42,22,1
+Humility,42,22,1
+The Queen,42,22,1
+The Union,42,22,1
+Jack in the Box,42,22,1
+The Pack Leader,42,22,1
+The Inventor,42,22,1
+The Artist,42,22,1
+The Chains that Bind,42,22,1
+The Celestial Justicar,42,22,1
+Gemcutter's Promise,42,22,1
+The Pact,42,22,1
+The Wind,42,22,1
+Abandoned Wealth,42,22,1
+The King's Heart,42,22,1
+Coveted Possession,42,22,1
+The Incantation,42,22,1
+The Watcher,42,22,1
+Rain of Chaos,42,22,1
+The Feast,42,22,1
+Lucky Connections,42,22,1
+Time-Lost Relic,42,22,1
+Emperor's Luck,42,22,1
+The Avenger,42,22,1
+The Road to Power,42,22,1
+Chaotic Disposition,42,22,1
+The Lover,42,22,1
+The Gambler,42,22,1
+The Gemcutter,42,22,1
+The Dark Mage,42,22,1
+The Scarred Meadow,42,22,1
+The Warden,42,22,1
+The Sun,42,22,1
+The Drunken Aristocrat,42,22,1
+The Hoarder,42,22,1
+The Hunger,42,22,1
+The Cataclysm,42,22,1
+The Summoner,42,22,1
+Vinia's Token,42,22,1
+Birth of the Three,42,22,1
+The Fiend,42,22,1
+Hope,42,22,1
+The Carrion Crow,42,22,1
+The Poet,42,22,1
+The Brittle Emperor,42,22,1
+The Scholar,42,22,1
+The Gladiator,42,22,1
+The Battle Born,42,22,1
+The Metalsmith's Gift,42,22,1
+Lantador's Lost Love,42,22,1
+The Hermit,42,22,1
+The Doctor,42,22,1
+Three Faces in the Dark,42,22,1
+Treasure Key,43,22,1
+Silver Key,43,22,1
+Golden Key,43,22,1
+Portal Shredder,44,22,1
+Black Rose of Anarchy,44,22,1
+Cogs of Disruption,44,22,1
+Sand of Eternity,44,22,1
+Vial Of Power,44,22,1
+Rod of Detonation,44,22,1
+Orb of Elemental Dispersion,44,22,1
+Cube Of Absorption,44,22,1
+Heart of the Gargoyle,44,22,1
+Bane of the Loyal,44,22,1
+Offering to the Goddess,45,22,1
+Timeworn Reliquary Key,46,22,50
+Ancient Reliquary Key,46,22,35
+Ambush Leaguestone,47,12,1
+Invasion Leaguestone,47,12,11
+Nemesis Leaguestone,47,12,11
+Onslaught Leaguestone,47,12,25
+Beyond Leaguestone,47,12,5
+Torment Leaguestone,47,12,1
+Bloodlines Leaguestone,47,12,10
+Rampage Leaguestone,47,12,1
+Warbands Leaguestone,47,12,1
+Domination Leaguestone,47,12,1
+Anarchy Leaguestone,47,12,11
+Talisman Leaguestone,47,12,5
+Tempest Leaguestone,47,12,25
+Essence Leaguestone,47,12,1
+Perandus Leaguestone,47,12,5
+Prophecy Leaguestone,47,12,11
+Breach Leaguestone,47,12,1
+"Captured Soul of Gorulis, Will-Thief",48,22,1
+Captured Soul of Stalker of the Endless Dunes,48,22,1
+"Captured Soul of Drek, Apex Hunter",48,22,1
+"Captured Soul of Tahsin, Warmaker",48,22,1
+Captured Soul of Terror of the Infinite Drifts,48,22,1
+"Captured Soul of Varhesh, Shimmering Aberration",48,22,1
+"Captured Soul of Erebix, Light's Bane",48,22,1
+"Captured Soul of Mephod, the Earth Scorcher",48,22,1
+Captured Soul of The Hallowed Husk,48,22,1
+Captured Soul of Excellis Aurafix,48,22,1
+Captured Soul of Ancient Architect,48,22,1
+"Captured Soul of Kitava, The Destroyer",48,22,1
+Captured Soul of Eater of Souls,48,22,1
+Captured Soul of The Gorgon,48,22,1
+Captured Soul of Thraxia,48,22,1
+Captured Soul of Shavronne the Sickening,48,22,1
+Captured Soul of Queen of the Great Tangle,48,22,1
+Captured Soul of Captain Tanner Lightfoot,48,22,1
+"Captured Soul of Ambrius, Legion Slayer",48,22,1
+Captured Soul of Glace,48,22,1
+Callous Mask Piece,49,15,1
+Blunt Arrow Quiver Piece,49,15,1
+Cloth Belt Piece,49,15,1
+Imperial Staff Piece,49,15,1
+Legion Sword Piece,49,15,1
+Archon Kite Shield Piece,49,15,1
+Ghastly Eye Jewel,50,13,1
+Hypnotic Eye Jewel,50,13,1
+Searching Eye Jewel,50,13,1
+Murderous Eye Jewel,50,13,1
+Flashpowder Keg,51,22,1
+Stone of Passage,51,22,1
+Feral Incubator,53,22,1
+Gemcutter's Incubator,53,22,1
+Mysterious Incubator,53,22,1
+Thaumaturge's Incubator,53,22,1
+Foreboding Incubator,53,22,1
+Obscured Incubator,53,22,1
+Eldritch Incubator,53,22,1
+Celestial Jeweller's Incubator,53,22,1
+Celestial Blacksmith's Incubator,53,22,1
+Celestial Armoursmith's Incubator,53,22,1
+Time-Lost Incubator,53,22,1
+Ornate Incubator,53,22,1
+Geomancer's Incubator,53,22,1
+Enchanted Incubator,53,22,1
+Primal Incubator,53,22,1
+Diviner's Incubator,53,22,1
+Decadent Incubator,53,22,1
+Fossilised Incubator,53,22,1
+Infused Incubator,53,22,1
+Skittering Incubator,53,22,1
+Fragmented Incubator,53,22,1
+Abyssal Incubator,53,22,1
+Otherworldly Incubator,53,22,1
+Cartographer's Incubator,53,22,1
+Singular Incubator,53,22,1
+Fine Incubator,53,22,1
+Whispering Incubator,53,22,1
+Demon Dagger,56,1,68
+Imperial Skean,56,1,66
+Platinum Kris,56,1,64
+Ezomyte Dagger,56,1,62
+Slaughter Knife,56,1,58
+Fiend Dagger,56,1,53
+Royal Skean,56,1,50
+Golden Kris,56,1,47
+Boot Blade,56,1,44
+Butcher Knife,56,1,38
+Imp Dagger,56,1,32
+Skean,56,1,28
+Copper Kris,56,1,24
+Boot Knife,56,1,20
+Carving Knife,56,1,10
+Judgement Staff,57,1,68
+Maelström Staff,57,1,64
+Ezomyte Staff,57,1,60
+Foul Staff,57,1,55
+Serpentine Staff,57,1,49
+Military Staff,57,1,41
+Vile Staff,57,1,33
+Coiled Staff,57,1,23
+Iron Staff,57,1,13
+Prime Chaotic Resonator,58,22,68
+Powerful Chaotic Resonator,58,22,34
+Potent Chaotic Resonator,58,22,34
+Primitive Chaotic Resonator,58,22,34
+Prime Alchemical Resonator,58,22,68
+Powerful Alchemical Resonator,58,22,34
+Potent Alchemical Resonator,58,22,1
+Primitive Alchemical Resonator,58,22,1
+Golden Watchstone,59,22,1
+Viridian Watchstone,59,22,1
+Cobalt Watchstone,59,22,1
+Crimson Watchstone,59,22,1
+Ivory Watchstone,59,22,1
+Metamorph Heart,60,22,1
+Metamorph Lung,60,22,1
+Metamorph Liver,60,22,1
+Metamorph Eye,60,22,1
+Metamorph Brain,60,22,1

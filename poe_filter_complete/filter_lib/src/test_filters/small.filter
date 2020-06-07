@@ -1,0 +1,49 @@
+Continue #$type->expl->rare
+	Corrupted False
+	Identified True
+	Class "Rune Dagger" "Sceptres" "Wands"
+	HasExplicitMod "Flame Shaper's" "Frost Singer's" "Lithomancer's" "Mad Lord's" "Thunderhand's"
+	HasExplicitMod "Magister's"
+	SetFontSize 45
+	SetTextColor 255 190 0                  # TEXTCOLOR:	 Rare 75+
+	SetBorderColor 0 240 190 240            # BORDERCOLOR:	 Special Base
+	SetBackgroundColor 0 75 30 255          # BACKGROUND:	 Rare T1
+	PlayAlertSound 3 300                    # DROPSOUND:	 Unique
+	PlayEffect Blue
+	MinimapIcon 0 Blue Diamond
+
+#------------------------------------
+#   [1202] Rare Item Permutations
+#------------------------------------
+
+Hide # $type->expl->rare
+	Identified True
+	DropLevel > 50
+	Rarity Rare
+	Class "Bows" "Wands"
+	HasExplicitMod "Bloodthirsty" "Cruel" "Merciless" "Tacati" "Tyrannical"
+	HasExplicitMod "Annealed" "Flaring" "Razor-sharp" "Tempered"
+	HasExplicitMod "of Ease" "of Mastery" "of Renown"
+	SetFontSize 45
+	SetTextColor 255 190 0                  # TEXTCOLOR:	 Rare 75+
+	SetBorderColor 0 240 190 240            # BORDERCOLOR:	 Special Base
+	SetBackgroundColor 0 75 30 255          # BACKGROUND:	 Rare T1
+	PlayAlertSound 3 300                    # DROPSOUND:	 Unique
+	PlayEffect Blue
+	MinimapIcon 0 Blue Diamond
+
+Show # $type->expl->rare
+	Corrupted False
+	Identified True
+	DropLevel > 50
+	Rarity Rare
+	Class "Bows" "Wands"
+	HasExplicitMod "Merciless" "Tyrannical"
+	HasExplicitMod "of Incision" "of Renown"
+	SetFontSize 45
+	SetTextColor 255 190 0                  # TEXTCOLOR:	 Rare 75+
+	SetBorderColor 0 240 190 240            # BORDERCOLOR:	 Special Base
+	SetBackgroundColor 0 75 30 255          # BACKGROUND:	 Rare T1
+	PlayAlertSound 3 300                    # DROPSOUND:	 Unique
+	PlayEffect Blue
+	MinimapIcon 0 Blue Diamond

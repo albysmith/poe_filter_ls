@@ -1,0 +1,5 @@
+[workspace]
+
+members = [
+    "filter_bin", "filter_lib"
+]
