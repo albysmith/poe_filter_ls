@@ -1,5 +1,5 @@
 {
-	"name": "poe-filter-ls",
+	"name": "poe_filter_ls",
 	"description": "A language server for POE Filters",
 	"author": "Mewo and Alby",
 	"license": "MIT",

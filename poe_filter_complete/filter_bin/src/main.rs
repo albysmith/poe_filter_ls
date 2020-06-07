@@ -110,7 +110,7 @@ fn main() -> Result<(), Box<dyn Error + Sync + Send>> {
 
 fn main_loop(
     connection: &Connection,
-    params: serde_json::Value,
+    _params: serde_json::Value,
 ) -> Result<(), Box<dyn Error + Sync + Send>> {
     // info!("starting main loop");
 
@@ -153,7 +153,7 @@ fn main_loop(
 }
 
 fn handle_request(connection: &Connection, response: Response) {
-    let resp = connection.sender.send(Message::Response(response));
+    let _resp = connection.sender.send(Message::Response(response));
 }
 
 fn handle_hover(

@@ -1,13 +1,13 @@
 // use csv::*;
 use serde::Deserialize;
 
-#[derive(Deserialize, Clone, Debug)]
+#[derive(Deserialize, Default, Clone, Debug)]
 pub struct PoeData {
     pub classes: Vec<Record>,
     pub bases: Vec<Record>,
     pub mods: Vec<Record>,
 }
-#[derive(Deserialize, Clone, Debug)]
+#[derive(Deserialize, Default, Clone, Debug)]
 pub struct Record {
     pub id: Option<i32>,
     pub name: Option<String>,
