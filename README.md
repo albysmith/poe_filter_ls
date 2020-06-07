@@ -1,1 +1,2 @@
-# POE Filter Language Server
+# POE Filter Language Server  
+for VSCode client
