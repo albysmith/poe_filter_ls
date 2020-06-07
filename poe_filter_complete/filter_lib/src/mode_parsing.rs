@@ -452,7 +452,6 @@ fn new_block(
 fn add_keyword(token: Token, span: std::ops::Range<usize>, block: &mut FilterBlock) {
     block.keywords.push(TokenAndSpan {
         token: token.clone(),
-        // tspan: Some(span.clone()),
         span: span,
         value: vec![],
     })
@@ -465,14 +464,12 @@ fn add_values(token: Token, span: std::ops::Range<usize>, block: &mut FilterBloc
             span: span,
             value: string,
         });
-        // println!("STRING PLEASE: {:#?}", last_key.value);
     };
 }
 
 pub fn ignore_comments(lex: &mut Lexer<Token>) {
     if lex.slice() == "#" {
         loop {
-            // let result = lex.next();
             match lex.next() {
                 Some(Token::EndLine) => break,
                 _ => {}
