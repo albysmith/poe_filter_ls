@@ -5,11 +5,11 @@
 	"license": "MIT",
 	"version": "0.1.0",
 	"publisher": "GodlyPlateoftheWhale",
+	"categories": [],
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/albysmith/poe_filter_ls"
 	},
-	"categories": [],
 	"keywords": [
 		"multi-root ready"
 	],
