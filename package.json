@@ -1,13 +1,13 @@
 {
 	"name": "poe-filter-code-complete",
 	"description": "A language server for POE Filters",
-	"author": "Mewo and Alby",
+	"author": "GodlyPlateoftheWhale",
 	"license": "MIT",
-	"version": "1.0.0",
-	"publisher": "us",
+	"version": "0.1.0",
+	"publisher": "GodlyPlateoftheWhale",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/mewosmith/poe_filter_complete"
+		"url": "https://github.com/albysmith/poe_filter_ls"
 	},
 	"categories": [],
 	"keywords": [
