@@ -35,6 +35,12 @@
 		"include": "#keyword.control"
 	},
 	{
+		"include": "#queries"
+	},
+	{
+		"include": "#actions"
+	},
+	{
 		"include": "#support.class"
 	}
 	],
@@ -47,14 +53,26 @@
 		},
 		"number": {
 			"patterns": [{
-				"name": "entity.name.function",
-				"match": "(1|2|3|4|5|6|7|8|9|0|None|Rare|Unique|Normal|Magic|True|False|Blue|Red|Green|Yellow|White|Brown|Circle|Triangle|UpsideDownHouse|Hexagon|Square|Star|Diamond|Shaper|Elder|Crusader|Redeemer|Hunter|Warlord)"
+				"name": "constant.character.escape",
+				"match": "(1|2|3|4|5|6|7|8|9|0|None|Rare|Unique|Normal|Magic|True|False|Orange|Cross|Kite|Blue|Red|Green|Yellow|White|Brown|Circle|Triangle|UpsideDownHouse|Hexagon|Square|Star|Diamond|Shaper|Elder|Crusader|Redeemer|Hunter|Warlord)"
 			}]
 		},
 		"keywords": {
 			"patterns": [{
 				"name": "keyword.control",
 				"match": "\\b(Show|Hide|Continue)\\b"
+			}]
+		},
+		"queries": {
+			"patterns": [{
+				"name": "entity.name.function",
+				"match": "\\b(cards|prophecies|essences|fossils|resonators|scarabs|incubators|oils|catalysts|uniques_eq_unambiguous|uniques_eq_ambiguous|uniques_flasks_unambiguous|uniques_flasks_ambiguous|uniques_jewels_unambiguous|uniques_jewels_ambiguous|uniques_maps_unambiguous|uniques_maps_ambiguous)\\b"
+			}]
+		},
+		"actions": {
+			"patterns": [{
+				"name": "token.debug-token",
+				"match": "\\b(Autogen|Price)\\b"
 			}]
 		},
 		"attribute": {
