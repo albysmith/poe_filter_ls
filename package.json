@@ -30,7 +30,26 @@
 				],
 				"extensions": [
 					".filter"
-				]
+				],
+				"configuration": "./language-configuration.json"
+			},
+			{
+				"id": "filter_spirit",
+				"aliases": [
+					"filter_spirit",
+					"filter spirit"
+				],
+				"extensions": [
+					".filter_spirit"
+				],
+				"configuration": "./language-configuration.json"
+			}
+		],
+		"grammars": [
+			{
+				"language": "filter_spirit",
+				"scopeName": "text.html",
+				"path": "./syntaxes/filter_spirit.tmLanguage.json"
 			}
 		],
 		"configuration": {

@@ -1,0 +1,100 @@
+{
+	"$schema": "https://raw.githubusercontent.com/martinring/tmlanguage/master/tmlanguage.json",
+	"name": "filter",
+	"patterns": [{
+		"include": "#operator"
+	},
+	{
+		"include": "#number"
+	},
+	{
+		"include": "#keywords"
+	},
+	{
+		"include": "#attribute"
+	},
+	{
+		"include": "#strings"
+	},
+	{
+		"include": "#comment-line"
+	},
+	{
+		"include": "#storage"
+	},
+	{
+		"include": "#token.warn-token"
+	},
+	{
+		"include": "#variables"
+	},
+	{
+		"include": "#token.debug-token"
+	},
+	{
+		"include": "#keyword.control"
+	},
+	{
+		"include": "#support.class"
+	}
+	],
+	"repository": {
+		"operator": {
+			"patterns": [{
+				"name": "keyword",
+				"match": "(=|<|>)"
+			}]
+		},
+		"number": {
+			"patterns": [{
+				"name": "entity.name.function",
+				"match": "(1|2|3|4|5|6|7|8|9|0|None|Rare|Unique|Normal|Magic|True|False|Blue|Red|Green|Yellow|White|Brown|Circle|Triangle|UpsideDownHouse|Hexagon|Square|Star|Diamond|Shaper|Elder|Crusader|Redeemer|Hunter|Warlord)"
+			}]
+		},
+		"keywords": {
+			"patterns": [{
+				"name": "keyword.control",
+				"match": "\\b(Show|Hide|Continue)\\b"
+			}]
+		},
+		"attribute": {
+			"patterns": [{
+				"name": "support.class",
+				"match": "\\b(Mirrored|AreaLevel|CorruptedMods|Class|BaseType|Prophecy|HasExplicitMod|Rarity|DropLevel|ItemLevel|StackSize|GemLevel|Sockets|LinkedSockets|SocketGroup|Quality|Width|Height|MapTier|Identified|Corrupted|ElderItem|ShaperItem|ShapedMap|BlightedMap|ElderMap|FracturedItem|SynthesisedItem|AnyEnchantment|HasEnchantment|HasInfluence)\\b"
+			}]
+		},
+		"storage": {
+			"patterns": [{
+				"name": "storage",
+				"match": "\\b(SetBackgroundColor|SetTextColor|SetAlertSound|SetFontSize|SetBorderColor|PlayAlertSound|PlayAlertSoundPositional|CustomAlertSound|DisableDropSound|MinimapIcon|PlayEffect)\\b"
+			}]
+		},
+		"strings": {
+			"name": "string",
+			"begin": "\"",
+			"end": "\"",
+			"patterns": [{
+				"name": "string",
+				"match": "\\\\"
+			}]
+		},
+		"variables": {
+			"name": "variable",
+			"patterns": [{
+				"name": "variable",
+				"match": "(\\$[a-zA-Z0-9_]+)"
+			}]
+		},
+		"comment-line": {
+			"name": "comment",
+			"begin": "#",
+			"end": "\n",
+			"patterns": [
+			{
+				"name": "comment",
+				"match": "\\\\"
+			}]
+		}
+	},
+	"scopeName": "text.html"
+}

@@ -3429,10 +3429,10 @@ Show # %D2 $size->small
 	SetBackgroundColor 0 0 0 219            # BACKGROUND:	 Neutral T4
 
 Show # %D2 %UP $size->small
-	ItemLevel >= 65
+	ItemLevel >= 65 
 	DropLevel >= 58
 	Rarity Rare
-	Class "Claws"
+	Class "Claws" ""
 	SetTextColor 220 220 119 220            # TEXTCOLOR:	 T3 Rare
 	SetBorderColor 120 120 120              # BORDERCOLOR:	 Rares: small
 	SetBackgroundColor 0 0 0 219            # BACKGROUND:	 Neutral T4
@@ -3945,7 +3945,7 @@ Show # %D2 %UP $size->small
 	Height <= 2
 	ItemLevel >= 65
 	DropLevel >= 55
-	Rarity Rare
+	Rarity Rare ""
 	Class "Shields"
 	SetTextColor 220 220 119 220            # TEXTCOLOR:	 T3 Rare
 	SetBorderColor 120 120 120              # BORDERCOLOR:	 Rares: small
